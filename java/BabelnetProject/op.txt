@@ -1,0 +1,6 @@
+Term	Synsets	Specific Score	Generic Score	Term Score
+february [WIKI:EN:February_(film), February#n#1] 0.7157725 0.48478468750000003 0.11549390625
+february [WIKI:EN:February_(film), February#n#1] 0.7157725 0.48478468750000003 0.11549390625
+frequencies [WIKI:EN:Frequencies_(album), frequency#n#1] 0.4992875 0.23276022727272727 0.13326363636363636
+february [WIKI:EN:February_(film), February#n#1] 0.7157725 0.48478468750000003 0.11549390625Term	Synsets	Specific Score	Generic Score	Term Score
+february [WIKI:EN:February_(film), February#n#1] 0.7157725 0.48478468750000003 0.11549390625

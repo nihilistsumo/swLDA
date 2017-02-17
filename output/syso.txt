@@ -1,0 +1,862 @@
+Term is february
+[WIKI:EN:February_(film), February#n#1]
+Current synset for february is WIKI:EN:February_(film)
+any_hypernym score calculated for WIKI:EN:February_(film)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:February_(film)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:February_(film)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:February_(film)0.0/0 = 0.0
+Current synset for february is February#n#1
+java.lang.NullPointerException
+	at bbl.BabelUtil.calEdgeScore(BabelUtil.java:78)
+	at bbl.BabelUtil.calScore(BabelUtil.java:117)
+	at bbl.BabelUtil.iterateArray(BabelUtil.java:136)
+	at bbl.BabelnetMain.main(BabelnetMain.java:11)
+any_hypernym score calculated for February#n#13.86424/4 = 0.96606
+any_holonym score calculated for February#n#10.89703/1 = 0.89703
+any_hyponym score calculated for February#n#16.0/6 = 1.0
+any_meronym score calculated for February#n#17.513110000000001/8 = 0.9391387500000001
+Term index i=0 february
+Term = february Specific score = 0.7157725 Generic score = 0.48478468750000003 Term score = 0.11549390625
+
+
+
+
+Term is frequencies
+[WIKI:EN:Frequencies_(album), frequency#n#1]
+Current synset for frequencies is WIKI:EN:Frequencies_(album)
+any_hypernym score calculated for WIKI:EN:Frequencies_(album)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Frequencies_(album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Frequencies_(album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Frequencies_(album)0.0/0 = 0.0
+Current synset for frequencies is frequency#n#1
+any_hypernym score calculated for frequency#n#111.9658/12 = 0.99715
+any_holonym score calculated for frequency#n#10.0/0 = 0.0
+any_hyponym score calculated for frequency#n#110.24145/11 = 0.9310409090909091
+any_meronym score calculated for frequency#n#10.0/0 = 0.0
+Term index i=1 frequencies
+Term = frequencies Specific score = 0.4992875 Generic score = 0.23276022727272727 Term score = 0.13326363636363636
+
+
+
+
+Term is locked
+[WIKT:EN:locked, WIKT:EN:locked, WIKI:EN:Mutha's_Day_Out]
+Current synset for locked is WIKT:EN:locked
+any_hypernym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_holonym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_hyponym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_meronym score calculated for WIKT:EN:locked0.0/0 = 0.0
+Current synset for locked is WIKT:EN:locked
+any_hypernym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_holonym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_hyponym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_meronym score calculated for WIKT:EN:locked0.0/0 = 0.0
+Current synset for locked is WIKI:EN:Mutha's_Day_Out
+any_hypernym score calculated for WIKI:EN:Mutha's_Day_Out4.0/4 = 1.0
+any_holonym score calculated for WIKI:EN:Mutha's_Day_Out0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Mutha's_Day_Out0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Mutha's_Day_Out0.0/0 = 0.0
+Term index i=2 locked
+Term = locked Specific score = 0.16666666666666666 Generic score = 0.0 Term score = 0.08333333333333333
+
+
+
+
+Term is panel
+[control_panel#n#1, panel#n#4, WIKI:EN:panel_(comics), panel#n#3, panel#n#1, jury#n#2, panel#n#6, empanel#v#2, WIKIDATA:EN:panel, panel#n#5, panel#v#1, dialog_box#n#1]
+Current synset for panel is control_panel#n#1
+any_hypernym score calculated for control_panel#n#10.93202/1 = 0.93202
+any_holonym score calculated for control_panel#n#10.0/0 = 0.0
+any_hyponym score calculated for control_panel#n#10.72872/1 = 0.72872
+any_meronym score calculated for control_panel#n#10.63329/1 = 0.63329
+Current synset for panel is panel#n#4
+any_hypernym score calculated for panel#n#40.90451/1 = 0.90451
+any_holonym score calculated for panel#n#40.0/0 = 0.0
+any_hyponym score calculated for panel#n#40.0/0 = 0.0
+any_meronym score calculated for panel#n#40.7729699999999999/1 = 0.7729699999999999
+Current synset for panel is WIKI:EN:panel_(comics)
+any_hypernym score calculated for WIKI:EN:panel_(comics)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:panel_(comics)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:panel_(comics)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:panel_(comics)0.0/0 = 0.0
+Current synset for panel is panel#n#3
+any_hypernym score calculated for panel#n#30.85294/1 = 0.85294
+any_holonym score calculated for panel#n#30.0/0 = 0.0
+any_hyponym score calculated for panel#n#30.0/0 = 0.0
+any_meronym score calculated for panel#n#30.0/0 = 0.0
+Current synset for panel is panel#n#1
+any_hypernym score calculated for panel#n#10.9295100000000001/1 = 0.9295100000000001
+any_holonym score calculated for panel#n#10.0/0 = 0.0
+any_hyponym score calculated for panel#n#16.304139999999999/7 = 0.9005914285714285
+any_meronym score calculated for panel#n#10.0/0 = 0.0
+Term index i=3 panel
+Term = panel Specific score = 0.19245750000000003 Generic score = 0.12648214285714285 Term score = 0.03298767857142859
+
+
+
+
+Term is norton
+[WIKI:EN:Norton_(surname), WIKI:EN:Norton,_Virginia, WIKIDATA:EN:Norton, WIKI:EN:Norton,_Doncaster, WIKI:EN:Norton,_Ohio, WIKI:EN:Norton,_Kansas, WIKI:EN:Norton,_Zimbabwe, WIKI:EN:Norton,_Massachusetts, WIKI:EN:Norton_(given_name), WIKI:EN:Norton,_Vermont, WIKI:EN:Norton_Motorcycle_Company, WIKI:EN:Norton_(grape), WIKI:EN:McGear, WIKI:EN:Norton_(1745_cricketer)]
+Current synset for norton is WIKI:EN:Norton_(surname)
+any_hypernym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+Current synset for norton is WIKI:EN:Norton,_Virginia
+any_hypernym score calculated for WIKI:EN:Norton,_Virginia3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Norton,_Virginia0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Virginia0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Virginia0.0/0 = 0.0
+Current synset for norton is WIKIDATA:EN:Norton
+any_hypernym score calculated for WIKIDATA:EN:Norton2.0/2 = 1.0
+any_holonym score calculated for WIKIDATA:EN:Norton0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Norton0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Norton0.0/0 = 0.0
+Current synset for norton is WIKI:EN:Norton,_Doncaster
+any_hypernym score calculated for WIKI:EN:Norton,_Doncaster3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Norton,_Doncaster0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Doncaster0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Doncaster0.0/0 = 0.0
+Current synset for norton is WIKI:EN:Norton,_Ohio
+any_hypernym score calculated for WIKI:EN:Norton,_Ohio2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Norton,_Ohio0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Ohio0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Ohio0.0/0 = 0.0
+Term index i=4 norton
+Term = norton Specific score = 0.14285714285714285 Generic score = 0.0 Term score = 0.07142857142857142
+
+
+
+
+Term is boosted
+[]
+Term index i=5 boosted
+Term = boosted Specific score = 0.0 Generic score = 0.0 Term score = 0.0
+
+
+
+
+Term is investec
+[WIKI:EN:Investec]
+Current synset for investec is WIKI:EN:Investec
+any_hypernym score calculated for WIKI:EN:Investec2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Investec0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Investec0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Investec0.0/0 = 0.0
+Term index i=6 investec
+Term = investec Specific score = 0.5 Generic score = 0.0 Term score = 0.25
+
+
+
+
+Term is disappointed
+[WIKI:EN:9_(Public_Image_Ltd_album), defeated#a#2, disappointment#n#1, WIKI:EN:Disappointed]
+Current synset for disappointed is WIKI:EN:9_(Public_Image_Ltd_album)
+any_hypernym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/0 = 0.0
+Current synset for disappointed is defeated#a#2
+any_hypernym score calculated for defeated#a#20.0/0 = 0.0
+any_holonym score calculated for defeated#a#20.0/0 = 0.0
+any_hyponym score calculated for defeated#a#20.0/0 = 0.0
+any_meronym score calculated for defeated#a#20.0/0 = 0.0
+Current synset for disappointed is disappointment#n#1
+any_hypernym score calculated for disappointment#n#11.82218/2 = 0.91109
+any_holonym score calculated for disappointment#n#10.0/0 = 0.0
+any_hyponym score calculated for disappointment#n#10.7510600000000001/1 = 0.7510600000000001
+any_meronym score calculated for disappointment#n#11.0/1 = 1.0
+Current synset for disappointed is WIKI:EN:Disappointed
+any_hypernym score calculated for WIKI:EN:Disappointed2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Disappointed0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Disappointed0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Disappointed0.0/0 = 0.0
+Term index i=7 disappointed
+Term = disappointed Specific score = 0.36388624999999997 Generic score = 0.2188825 Term score = 0.07250187499999998
+
+
+
+
+Term is showcase
+[show_window#n#1, WIKI:EN:Showcase_(Australian_TV_channel), WIKI:EN:Showcase_(Philly_Joe_Jones_album), case#n#20, WIKI:EN:Showcase_(comics), WIKI:EN:The_Price_Is_Right_(U.S._game_show), WIKT:EN:showcase, WIKI:EN:Showcase_(The_Sylvers_album), WIKI:EN:Showcase_(Canadian_TV_channel), WIKI:EN:Showtime_(TV_network), WIKI:EN:Showcase_(Firefox_extension), WIKI:EN:Showcase_(retailer)]
+Current synset for showcase is show_window#n#1
+any_hypernym score calculated for show_window#n#10.035290000000000044/1 = 0.035290000000000044
+any_holonym score calculated for show_window#n#10.0/0 = 0.0
+any_hyponym score calculated for show_window#n#10.0/0 = 0.0
+any_meronym score calculated for show_window#n#10.0/0 = 0.0
+Current synset for showcase is WIKI:EN:Showcase_(Australian_TV_channel)
+any_hypernym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/0 = 0.0
+Current synset for showcase is WIKI:EN:Showcase_(Philly_Joe_Jones_album)
+any_hypernym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/0 = 0.0
+Current synset for showcase is case#n#20
+any_hypernym score calculated for case#n#203.92346/4 = 0.980865
+any_holonym score calculated for case#n#200.0/0 = 0.0
+any_hyponym score calculated for case#n#200.64281/1 = 0.64281
+any_meronym score calculated for case#n#200.0/0 = 0.0
+Current synset for showcase is WIKI:EN:Showcase_(comics)
+any_hypernym score calculated for WIKI:EN:Showcase_(comics)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Showcase_(comics)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(comics)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(comics)0.0/0 = 0.0
+Term index i=8 showcase
+Term = showcase Specific score = 0.16733979166666665 Generic score = 0.02678375 Term score = 0.07027802083333333
+
+
+
+
+Term is gamble
+[gamble#v#2, crapshoot#n#1, gamble#n#1, gamble#n#2, WIKI:EN:Gamble_(surname), gamble#v#1]
+Current synset for gamble is gamble#v#2
+any_hypernym score calculated for gamble#v#20.97631/1 = 0.97631
+any_holonym score calculated for gamble#v#20.0/0 = 0.0
+any_hyponym score calculated for gamble#v#23.4682799999999996/4 = 0.8670699999999999
+any_meronym score calculated for gamble#v#20.0/0 = 0.0
+Current synset for gamble is crapshoot#n#1
+any_hypernym score calculated for crapshoot#n#10.69548/1 = 0.69548
+any_holonym score calculated for crapshoot#n#10.0/0 = 0.0
+any_hyponym score calculated for crapshoot#n#10.0/0 = 0.0
+any_meronym score calculated for crapshoot#n#10.0/0 = 0.0
+Current synset for gamble is gamble#n#1
+any_hypernym score calculated for gamble#n#10.7592/1 = 0.7592
+any_holonym score calculated for gamble#n#10.0/0 = 0.0
+any_hyponym score calculated for gamble#n#10.78114/1 = 0.78114
+any_meronym score calculated for gamble#n#10.0/0 = 0.0
+Current synset for gamble is gamble#n#2
+any_hypernym score calculated for gamble#n#20.78303/1 = 0.78303
+any_holonym score calculated for gamble#n#20.0/0 = 0.0
+any_hyponym score calculated for gamble#n#21.67506/2 = 0.83753
+any_meronym score calculated for gamble#n#20.0/0 = 0.0
+Current synset for gamble is WIKI:EN:Gamble_(surname)
+any_hypernym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+Term index i=9 gamble
+Term = gamble Specific score = 0.267835 Generic score = 0.207145 Term score = 0.030344999999999997
+
+
+
+
+Term is lima
+[WIKI:EN:Indigitamenta, WIKI:EN:Lima_(restaurant), WIKI:EN:Lima,_Pennsylvania, WIKIDATA:EN:Lima, WIKI:EN:Lima,_Paraguay, WIKIDATA:EN:Lima, WIKI:EN:Lima_(Buenos_Aires_Underground), WIKI:EN:Lima_(Milan_Metro), WIKI:EN:Lima,_Pepin_County,_Wisconsin, WIKI:EN:Lima,_Sweden, WIKI:EN:Lima_(footballer), Lima#n#1, WIKI:EN:Internal_thoracic_artery, WIKI:EN:Lima,_Montana, WIKI:EN:Lima,_Illinois, WIKI:EN:Lima_Region, WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot, WIKI:EN:Lima_(models), WIKI:EN:Lima,_Ohio, WIKIDATA:EN:Lima, WIKI:EN:Lima,_Oklahoma, WIKIDATA:EN:Lima, WIKIDATA:EN:Lima, WIKIDATA:EN:Lima, WIKI:EN:Lima_(surname), WIKI:EN:Lima_(genus)]
+Current synset for lima is WIKI:EN:Indigitamenta
+any_hypernym score calculated for WIKI:EN:Indigitamenta1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Indigitamenta0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Indigitamenta0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Indigitamenta0.0/0 = 0.0
+Current synset for lima is WIKI:EN:Lima_(restaurant)
+any_hypernym score calculated for WIKI:EN:Lima_(restaurant)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Lima_(restaurant)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_(restaurant)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_(restaurant)0.0/0 = 0.0
+Current synset for lima is WIKI:EN:Lima,_Pennsylvania
+any_hypernym score calculated for WIKI:EN:Lima,_Pennsylvania2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/0 = 0.0
+Current synset for lima is WIKIDATA:EN:Lima
+any_hypernym score calculated for WIKIDATA:EN:Lima1.0/1 = 1.0
+any_holonym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+Current synset for lima is WIKI:EN:Lima,_Paraguay
+any_hypernym score calculated for WIKI:EN:Lima,_Paraguay2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Lima,_Paraguay0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Paraguay0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Paraguay0.0/0 = 0.0
+Term index i=10 lima
+Term = lima Specific score = 0.09615384615384616 Generic score = 0.0 Term score = 0.04807692307692308
+
+
+
+
+Term is press
+[press#v#4, pressing#n#1, press#n#3, crush#n#2, press#v#1, press_out#v#2, press#v#13, WIKI:EN:overhead_press, iron#v#1, military_press#n#1, mechanical_press#n#1, WIKI:EN:Press_(film), closet#n#3, WIKI:EN:Press_(album), WIKI:EN:Press_(surname), pressing#n#2, press#v#6, press#n#6, WIKI:EN:Press_(song), press#n#2, compress#v#2, imperativeness#n#1, press#v#3, press#v#8, press#v#11, press#v#2, press#v#7, entreat#v#1, agitate#v#3, WIKI:EN:Press_(newspaper)]
+Current synset for press is press#v#4
+any_hypernym score calculated for press#v#40.81136/1 = 0.81136
+any_holonym score calculated for press#v#40.0/0 = 0.0
+any_hyponym score calculated for press#v#41.5396999999999998/2 = 0.7698499999999999
+any_meronym score calculated for press#v#40.0/0 = 0.0
+Current synset for press is pressing#n#1
+any_hypernym score calculated for pressing#n#10.84607/1 = 0.84607
+any_holonym score calculated for pressing#n#10.0/0 = 0.0
+any_hyponym score calculated for pressing#n#11.7743099999999998/2 = 0.8871549999999999
+any_meronym score calculated for pressing#n#10.0/0 = 0.0
+Current synset for press is press#n#3
+any_hypernym score calculated for press#n#30.91839/1 = 0.91839
+any_holonym score calculated for press#n#30.0/0 = 0.0
+any_hyponym score calculated for press#n#32.40959/3 = 0.8031966666666667
+any_meronym score calculated for press#n#30.75363/1 = 0.75363
+Current synset for press is crush#n#2
+any_hypernym score calculated for crush#n#20.86683/1 = 0.86683
+any_holonym score calculated for crush#n#20.0/0 = 0.0
+any_hyponym score calculated for crush#n#20.6928799999999999/1 = 0.6928799999999999
+any_meronym score calculated for crush#n#20.0/0 = 0.0
+Current synset for press is press#v#1
+any_hypernym score calculated for press#v#10.94627/1 = 0.94627
+any_holonym score calculated for press#v#10.0/0 = 0.0
+any_hyponym score calculated for press#v#15.37038/6 = 0.8950633333333333
+any_meronym score calculated for press#v#10.0/0 = 0.0
+Term index i=11 press
+Term = press Specific score = 0.07314866666666668 Generic score = 0.08002958333333332 Term score = -0.0034404583333333197
+
+
+
+
+Term is basic
+[WIKI:EN:Languages_in_Star_Wars, canonical#a#3, WIKI:EN:Basic_(Glen_Campbell_album), basic#a#1, base#n#10, WIKI:EN:Basic_(Robert_Quine_and_Fred_Maher_album), WIKI:EN:Basic_(film), WIKI:EN:Basic_(cigarette), WIKI:EN:Basic_(dance_move), basic#n#2, BASIC#n#1, basic#a#4, introductory#a#2]
+Current synset for basic is WIKI:EN:Languages_in_Star_Wars
+any_hypernym score calculated for WIKI:EN:Languages_in_Star_Wars1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Languages_in_Star_Wars0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Languages_in_Star_Wars0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Languages_in_Star_Wars0.0/0 = 0.0
+Current synset for basic is canonical#a#3
+any_hypernym score calculated for canonical#a#30.0/0 = 0.0
+any_holonym score calculated for canonical#a#30.0/0 = 0.0
+any_hyponym score calculated for canonical#a#30.0/0 = 0.0
+any_meronym score calculated for canonical#a#30.0/0 = 0.0
+Current synset for basic is WIKI:EN:Basic_(Glen_Campbell_album)
+any_hypernym score calculated for WIKI:EN:Basic_(Glen_Campbell_album)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Basic_(Glen_Campbell_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Basic_(Glen_Campbell_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Basic_(Glen_Campbell_album)0.0/0 = 0.0
+Current synset for basic is basic#a#1
+any_hypernym score calculated for basic#a#10.0/0 = 0.0
+any_holonym score calculated for basic#a#10.0/0 = 0.0
+any_hyponym score calculated for basic#a#10.0/0 = 0.0
+any_meronym score calculated for basic#a#10.0/0 = 0.0
+Current synset for basic is base#n#10
+any_hypernym score calculated for base#n#1026.89365/27 = 0.9960611111111112
+any_holonym score calculated for base#n#100.0/0 = 0.0
+any_hyponym score calculated for base#n#1012.45645/13 = 0.9581884615384616
+any_meronym score calculated for base#n#100.0/0 = 0.0
+Term index i=12 basic
+Term = basic Specific score = 0.11523311965811965 Generic score = 0.03685340236686391 Term score = 0.03918985864562787
+
+
+
+
+Term is tied
+[fastened#a#3, tide#n#1, laced#a#1, tied#a#2, even#a#6, tied#a#1]
+Current synset for tied is fastened#a#3
+any_hypernym score calculated for fastened#a#30.0/0 = 0.0
+any_holonym score calculated for fastened#a#30.0/0 = 0.0
+any_hyponym score calculated for fastened#a#30.0/0 = 0.0
+any_meronym score calculated for fastened#a#30.0/0 = 0.0
+Current synset for tied is tide#n#1
+any_hypernym score calculated for tide#n#10.95361/1 = 0.95361
+any_holonym score calculated for tide#n#10.0/0 = 0.0
+any_hyponym score calculated for tide#n#111.518170000000001/12 = 0.9598475000000001
+any_meronym score calculated for tide#n#12.80083/3 = 0.9336099999999999
+Current synset for tied is laced#a#1
+any_hypernym score calculated for laced#a#10.0/0 = 0.0
+any_holonym score calculated for laced#a#10.0/0 = 0.0
+any_hyponym score calculated for laced#a#10.0/0 = 0.0
+any_meronym score calculated for laced#a#10.0/0 = 0.0
+Current synset for tied is tied#a#2
+any_hypernym score calculated for tied#a#20.0/0 = 0.0
+any_holonym score calculated for tied#a#20.0/0 = 0.0
+any_hyponym score calculated for tied#a#20.0/0 = 0.0
+any_meronym score calculated for tied#a#20.0/0 = 0.0
+Current synset for tied is even#a#6
+any_hypernym score calculated for even#a#60.0/0 = 0.0
+any_holonym score calculated for even#a#60.0/0 = 0.0
+any_hyponym score calculated for even#a#60.0/0 = 0.0
+any_meronym score calculated for even#a#60.0/0 = 0.0
+Term index i=13 tied
+Term = tied Specific score = 0.0794675 Generic score = 0.157788125 Term score = -0.0391603125
+
+
+
+
+Term is segregated
+[segregated#a#1]
+Current synset for segregated is segregated#a#1
+any_hypernym score calculated for segregated#a#10.0/0 = 0.0
+any_holonym score calculated for segregated#a#10.0/0 = 0.0
+any_hyponym score calculated for segregated#a#10.0/0 = 0.0
+any_meronym score calculated for segregated#a#10.0/0 = 0.0
+Term index i=14 segregated
+Term = segregated Specific score = 0.0 Generic score = 0.0 Term score = 0.0
+
+
+
+
+Term is job
+[caper#n#3, MSTERM:EN:job, Job#n#10, job#v#3, job#n#6, WIKI:EN:Job_(illustrator), job#n#1, problem#n#1, WIKI:EN:Job:_A_Masque_for_Dancing, task#n#2, WIKIDATA:EN:job, employment#n#2, job#n#3, job#n#5, WIKI:EN:Job_(surname), WIKI:EN:Job,_Puy-de-Dôme, WIKI:EN:Job_(Osacky), WIKI:EN:Job_(comics), WIKI:EN:JOB_(rolling_papers), WIKI:EN:Job_(novel), WIKI:EN:Job_(Shea), Job#n#9, job#n#11, job#v#1, job#v#4, job#n#7, employment#n#1, farm_out#v#1, WIKI:EN:Job_(given_name), job#n#4, WIKI:EN:Job_(professional_wrestling), Job#n#12]
+Current synset for job is caper#n#3
+any_hypernym score calculated for caper#n#30.5201/1 = 0.5201
+any_holonym score calculated for caper#n#30.0/0 = 0.0
+any_hyponym score calculated for caper#n#30.0/0 = 0.0
+any_meronym score calculated for caper#n#30.0/0 = 0.0
+Current synset for job is MSTERM:EN:job
+any_hypernym score calculated for MSTERM:EN:job0.0/0 = 0.0
+any_holonym score calculated for MSTERM:EN:job0.0/0 = 0.0
+any_hyponym score calculated for MSTERM:EN:job0.0/0 = 0.0
+any_meronym score calculated for MSTERM:EN:job0.0/0 = 0.0
+Current synset for job is Job#n#10
+any_hypernym score calculated for Job#n#100.74308/1 = 0.74308
+any_holonym score calculated for Job#n#100.0/0 = 0.0
+any_hyponym score calculated for Job#n#100.0/0 = 0.0
+any_meronym score calculated for Job#n#100.0/0 = 0.0
+Current synset for job is job#v#3
+any_hypernym score calculated for job#v#30.91762/1 = 0.91762
+any_holonym score calculated for job#v#30.0/0 = 0.0
+any_hyponym score calculated for job#v#30.0/0 = 0.0
+any_meronym score calculated for job#v#30.0/0 = 0.0
+Current synset for job is job#n#6
+any_hypernym score calculated for job#n#60.92537/1 = 0.92537
+any_holonym score calculated for job#n#60.0/0 = 0.0
+any_hyponym score calculated for job#n#60.0/0 = 0.0
+any_meronym score calculated for job#n#60.0/0 = 0.0
+Term index i=15 job
+Term = job Specific score = 0.04853390625 Generic score = 0.0 Term score = 0.024266953125
+
+
+
+
+Term is saldarriaga
+[WIKI:EN:Saldarriaga]
+Current synset for saldarriaga is WIKI:EN:Saldarriaga
+any_hypernym score calculated for WIKI:EN:Saldarriaga1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Saldarriaga0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Saldarriaga0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Saldarriaga0.0/0 = 0.0
+Term index i=16 saldarriaga
+Term = saldarriaga Specific score = 0.5 Generic score = 0.0 Term score = 0.25
+
+
+
+
+Term is phrase
+[articulate#v#2, WIKI:EN:Fencing_practice_and_techniques, WIKI:EN:Phrase_(rapper), phrase#n#1, phrase#n#4, phrase#v#2, phrase#n#2, idiom#n#4]
+Current synset for phrase is articulate#v#2
+any_hypernym score calculated for articulate#v#20.95366/1 = 0.95366
+any_holonym score calculated for articulate#v#20.0/0 = 0.0
+any_hyponym score calculated for articulate#v#24.623989999999999/5 = 0.9247979999999998
+any_meronym score calculated for articulate#v#20.0/0 = 0.0
+Current synset for phrase is WIKI:EN:Fencing_practice_and_techniques
+any_hypernym score calculated for WIKI:EN:Fencing_practice_and_techniques1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Fencing_practice_and_techniques0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Fencing_practice_and_techniques0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Fencing_practice_and_techniques0.0/0 = 0.0
+Current synset for phrase is WIKI:EN:Phrase_(rapper)
+any_hypernym score calculated for WIKI:EN:Phrase_(rapper)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Phrase_(rapper)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Phrase_(rapper)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Phrase_(rapper)0.0/0 = 0.0
+Current synset for phrase is phrase#n#1
+any_hypernym score calculated for phrase#n#14.91852/5 = 0.983704
+any_holonym score calculated for phrase#n#10.0/0 = 0.0
+any_hyponym score calculated for phrase#n#17.57826/8 = 0.9472825
+any_meronym score calculated for phrase#n#11.8667799999999999/2 = 0.9333899999999999
+Current synset for phrase is phrase#n#4
+any_hypernym score calculated for phrase#n#40.85837/1 = 0.85837
+any_holonym score calculated for phrase#n#40.0/0 = 0.0
+any_hyponym score calculated for phrase#n#40.0/0 = 0.0
+any_meronym score calculated for phrase#n#40.0/0 = 0.0
+Term index i=17 phrase
+Term = phrase Specific score = 0.299733375 Generic score = 0.17534190624999998 Term score = 0.06219573437500002
+
+
+
+
+Term is nia
+[WIKI:EN:Nia_(given_name), WIKI:EN:Nia_(album), WIKI:EN:Nia_(fungus), WIKI:EN:Nia_(fitness)]
+Current synset for nia is WIKI:EN:Nia_(given_name)
+any_hypernym score calculated for WIKI:EN:Nia_(given_name)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Nia_(given_name)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Nia_(given_name)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Nia_(given_name)0.0/0 = 0.0
+Current synset for nia is WIKI:EN:Nia_(album)
+any_hypernym score calculated for WIKI:EN:Nia_(album)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Nia_(album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Nia_(album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Nia_(album)0.0/0 = 0.0
+Current synset for nia is WIKI:EN:Nia_(fungus)
+any_hypernym score calculated for WIKI:EN:Nia_(fungus)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Nia_(fungus)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Nia_(fungus)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Nia_(fungus)0.0/0 = 0.0
+Current synset for nia is WIKI:EN:Nia_(fitness)
+any_hypernym score calculated for WIKI:EN:Nia_(fitness)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Nia_(fitness)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Nia_(fitness)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Nia_(fitness)0.0/0 = 0.0
+Term index i=18 nia
+Term = nia Specific score = 0.375 Generic score = 0.0 Term score = 0.1875
+
+
+
+
+Term is talking
+[WIKI:EN:Talking_(The_Rifles_song), talk#n#1, WIKI:EN:Talking_(A_Flock_of_Seagulls_song)]
+Current synset for talking is WIKI:EN:Talking_(The_Rifles_song)
+any_hypernym score calculated for WIKI:EN:Talking_(The_Rifles_song)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Talking_(The_Rifles_song)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Talking_(The_Rifles_song)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Talking_(The_Rifles_song)0.0/0 = 0.0
+Current synset for talking is talk#n#1
+java.lang.NullPointerException
+	at bbl.BabelUtil.calEdgeScore(BabelUtil.java:78)
+	at bbl.BabelUtil.calScore(BabelUtil.java:117)
+	at bbl.BabelUtil.iterateArray(BabelUtil.java:136)
+	at bbl.BabelnetMain.main(BabelnetMain.java:11)
+any_hypernym score calculated for talk#n#12.9394400000000003/3 = 0.9798133333333334
+any_holonym score calculated for talk#n#10.0/0 = 0.0
+any_hyponym score calculated for talk#n#16.3952100000000005/7 = 0.9136014285714287
+any_meronym score calculated for talk#n#10.0/0 = 0.0
+Current synset for talking is WIKI:EN:Talking_(A_Flock_of_Seagulls_song)
+any_hypernym score calculated for WIKI:EN:Talking_(A_Flock_of_Seagulls_song)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Talking_(A_Flock_of_Seagulls_song)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Talking_(A_Flock_of_Seagulls_song)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Talking_(A_Flock_of_Seagulls_song)0.0/0 = 0.0
+Term index i=19 talking
+Term = talking Specific score = 0.49663555555555555 Generic score = 0.15226690476190477 Term score = 0.17218432539682538
+
+
+
+
+Term is jeeves
+[WIKI:EN:By_Jeeves, WIKI:EN:Jeeves_(ERP_system), WIKI:EN:Jeeves]
+Current synset for jeeves is WIKI:EN:By_Jeeves
+any_hypernym score calculated for WIKI:EN:By_Jeeves3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:By_Jeeves0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:By_Jeeves0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:By_Jeeves0.0/0 = 0.0
+Current synset for jeeves is WIKI:EN:Jeeves_(ERP_system)
+any_hypernym score calculated for WIKI:EN:Jeeves_(ERP_system)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Jeeves_(ERP_system)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Jeeves_(ERP_system)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Jeeves_(ERP_system)0.0/0 = 0.0
+Current synset for jeeves is WIKI:EN:Jeeves
+any_hypernym score calculated for WIKI:EN:Jeeves2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Jeeves0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Jeeves1.0/1 = 1.0
+any_meronym score calculated for WIKI:EN:Jeeves0.0/0 = 0.0
+Term index i=20 jeeves
+Term = jeeves Specific score = 0.5 Generic score = 0.16666666666666666 Term score = 0.16666666666666669
+
+
+
+
+Term is servers
+[]
+Term index i=21 servers
+Term = servers Specific score = 0.0 Generic score = 0.0 Term score = 0.0
+
+
+
+
+Term is libretto
+[libretto#n#1, WIKI:EN:Toshiba_Libretto]
+Current synset for libretto is libretto#n#1
+any_hypernym score calculated for libretto#n#110.705020000000001/11 = 0.9731836363636365
+any_holonym score calculated for libretto#n#10.0/0 = 0.0
+any_hyponym score calculated for libretto#n#12.0/2 = 1.0
+any_meronym score calculated for libretto#n#10.0/0 = 0.0
+Current synset for libretto is WIKI:EN:Toshiba_Libretto
+any_hypernym score calculated for WIKI:EN:Toshiba_Libretto1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Toshiba_Libretto0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Toshiba_Libretto0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Toshiba_Libretto0.0/0 = 0.0
+Term index i=22 libretto
+Term = libretto Specific score = 0.49329590909090915 Generic score = 0.25 Term score = 0.12164795454545457
+
+
+
+
+Term is rca
+[WIKI:EN:RCA_(trademark), WIKI:EN:RCA_Records, WIKI:EN:RCA, WIKI:EN:Resource_consumption_accounting]
+Current synset for rca is WIKI:EN:RCA_(trademark)
+any_hypernym score calculated for WIKI:EN:RCA_(trademark)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:RCA_(trademark)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:RCA_(trademark)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:RCA_(trademark)0.0/0 = 0.0
+Current synset for rca is WIKI:EN:RCA_Records
+any_hypernym score calculated for WIKI:EN:RCA_Records3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:RCA_Records0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:RCA_Records0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:RCA_Records0.0/0 = 0.0
+Current synset for rca is WIKI:EN:RCA
+any_hypernym score calculated for WIKI:EN:RCA2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:RCA0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:RCA0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:RCA0.0/0 = 0.0
+Current synset for rca is WIKI:EN:Resource_consumption_accounting
+any_hypernym score calculated for WIKI:EN:Resource_consumption_accounting1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Resource_consumption_accounting0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Resource_consumption_accounting0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Resource_consumption_accounting0.0/0 = 0.0
+Term index i=23 rca
+Term = rca Specific score = 0.5 Generic score = 0.0 Term score = 0.25
+
+
+
+
+Term is collins
+[WIKI:EN:Collins,_Georgia, WIKI:EN:Collins_(1744_Surrey_cricketer), WIKI:EN:Collins,_Iowa, WIKI:EN:Collins,_Ohio, WIKI:EN:Collins_(surname), WIKI:EN:Collins_(1809_Surrey_cricketer), Tom_Collins#n#1, WIKI:EN:David_Collins_(Hampshire_cricketer), WIKI:EN:Collins_(baseball), WIKI:EN:Collins,_Mississippi, WIKI:EN:Collins_(crater), Wilkie_Collins#n#1]
+Current synset for collins is WIKI:EN:Collins,_Georgia
+any_hypernym score calculated for WIKI:EN:Collins,_Georgia2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Collins,_Georgia0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Collins,_Georgia0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Collins,_Georgia0.0/0 = 0.0
+Current synset for collins is WIKI:EN:Collins_(1744_Surrey_cricketer)
+any_hypernym score calculated for WIKI:EN:Collins_(1744_Surrey_cricketer)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Collins_(1744_Surrey_cricketer)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Collins_(1744_Surrey_cricketer)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Collins_(1744_Surrey_cricketer)0.0/0 = 0.0
+Current synset for collins is WIKI:EN:Collins,_Iowa
+any_hypernym score calculated for WIKI:EN:Collins,_Iowa2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Collins,_Iowa0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Collins,_Iowa0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Collins,_Iowa0.0/0 = 0.0
+Current synset for collins is WIKI:EN:Collins,_Ohio
+any_hypernym score calculated for WIKI:EN:Collins,_Ohio2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Collins,_Ohio0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Collins,_Ohio0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Collins,_Ohio0.0/0 = 0.0
+Current synset for collins is WIKI:EN:Collins_(surname)
+any_hypernym score calculated for WIKI:EN:Collins_(surname)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Collins_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Collins_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Collins_(surname)0.0/0 = 0.0
+Term index i=24 collins
+Term = collins Specific score = 0.20833333333333334 Generic score = 0.0 Term score = 0.10416666666666667
+
+
+
+
+Term is flexible
+[flexible#a#4, elastic#a#2, compromising#a#1, flexible#a#2, WIKT:EN:flexible, flexible#a#1]
+Current synset for flexible is flexible#a#4
+any_hypernym score calculated for flexible#a#40.0/0 = 0.0
+any_holonym score calculated for flexible#a#40.0/0 = 0.0
+any_hyponym score calculated for flexible#a#40.0/0 = 0.0
+any_meronym score calculated for flexible#a#40.0/0 = 0.0
+Current synset for flexible is elastic#a#2
+any_hypernym score calculated for elastic#a#20.0/0 = 0.0
+any_holonym score calculated for elastic#a#20.0/0 = 0.0
+any_hyponym score calculated for elastic#a#20.0/0 = 0.0
+any_meronym score calculated for elastic#a#20.0/0 = 0.0
+Current synset for flexible is compromising#a#1
+any_hypernym score calculated for compromising#a#10.0/0 = 0.0
+any_holonym score calculated for compromising#a#10.0/0 = 0.0
+any_hyponym score calculated for compromising#a#10.0/0 = 0.0
+any_meronym score calculated for compromising#a#10.0/0 = 0.0
+Current synset for flexible is flexible#a#2
+any_hypernym score calculated for flexible#a#20.0/0 = 0.0
+any_holonym score calculated for flexible#a#20.0/0 = 0.0
+any_hyponym score calculated for flexible#a#20.0/0 = 0.0
+any_meronym score calculated for flexible#a#20.0/0 = 0.0
+Current synset for flexible is WIKT:EN:flexible
+any_hypernym score calculated for WIKT:EN:flexible0.0/0 = 0.0
+any_holonym score calculated for WIKT:EN:flexible0.0/0 = 0.0
+any_hyponym score calculated for WIKT:EN:flexible0.0/0 = 0.0
+any_meronym score calculated for WIKT:EN:flexible0.0/0 = 0.0
+Term index i=25 flexible
+Term = flexible Specific score = 0.0 Generic score = 0.0 Term score = 0.0
+
+
+
+
+Term is plugged
+[WIKI:EN:Plugged_(novel), plugged#a#1, WIKI:EN:Plugged_(Starflyer_59_album), blocked#a#2]
+Current synset for plugged is WIKI:EN:Plugged_(novel)
+any_hypernym score calculated for WIKI:EN:Plugged_(novel)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Plugged_(novel)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Plugged_(novel)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Plugged_(novel)0.0/0 = 0.0
+Current synset for plugged is plugged#a#1
+any_hypernym score calculated for plugged#a#10.0/0 = 0.0
+any_holonym score calculated for plugged#a#10.0/0 = 0.0
+any_hyponym score calculated for plugged#a#10.0/0 = 0.0
+any_meronym score calculated for plugged#a#10.0/0 = 0.0
+Current synset for plugged is WIKI:EN:Plugged_(Starflyer_59_album)
+any_hypernym score calculated for WIKI:EN:Plugged_(Starflyer_59_album)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Plugged_(Starflyer_59_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Plugged_(Starflyer_59_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Plugged_(Starflyer_59_album)0.0/0 = 0.0
+Current synset for plugged is blocked#a#2
+any_hypernym score calculated for blocked#a#20.0/0 = 0.0
+any_holonym score calculated for blocked#a#20.0/0 = 0.0
+any_hyponym score calculated for blocked#a#20.0/0 = 0.0
+any_meronym score calculated for blocked#a#20.0/0 = 0.0
+Term index i=26 plugged
+Term = plugged Specific score = 0.25 Generic score = 0.0 Term score = 0.125
+
+
+
+
+Term is share
+[WIKI:EN:Why_There_Are_Mountains, WIKI:EN:Share_(film), partake#v#2, WIKI:EN:Share_(newspaper), WIKI:EN:Share_(P2P), share#v#1, plowshare#n#1, share#v#2, WIKI:EN:SHARE_(computing), parcel#n#2, WIKI:EN:Share_(command), share#v#5, share#n#2, WIKI:EN:Students_Harness_Aid_for_the_Relief_of_the_Elderly, contribution#n#1, percentage#n#2, WIKI:EN:Nielsen_ratings, deal#v#11]
+Current synset for share is WIKI:EN:Why_There_Are_Mountains
+any_hypernym score calculated for WIKI:EN:Why_There_Are_Mountains3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Why_There_Are_Mountains0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Why_There_Are_Mountains0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Why_There_Are_Mountains0.0/0 = 0.0
+Current synset for share is WIKI:EN:Share_(film)
+any_hypernym score calculated for WIKI:EN:Share_(film)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Share_(film)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Share_(film)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Share_(film)0.0/0 = 0.0
+Current synset for share is partake#v#2
+any_hypernym score calculated for partake#v#20.9249499999999999/1 = 0.9249499999999999
+any_holonym score calculated for partake#v#20.0/0 = 0.0
+any_hyponym score calculated for partake#v#20.72089/1 = 0.72089
+any_meronym score calculated for partake#v#20.0/0 = 0.0
+Current synset for share is WIKI:EN:Share_(newspaper)
+any_hypernym score calculated for WIKI:EN:Share_(newspaper)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Share_(newspaper)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Share_(newspaper)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Share_(newspaper)0.0/0 = 0.0
+Current synset for share is WIKI:EN:Share_(P2P)
+any_hypernym score calculated for WIKI:EN:Share_(P2P)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Share_(P2P)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Share_(P2P)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Share_(P2P)0.0/0 = 0.0
+Term index i=27 share
+Term = share Specific score = 0.10902638888888888 Generic score = 0.02002472222222222 Term score = 0.04450083333333333
+
+
+
+
+Term is mario
+[WIKI:EN:Mario_(American_singer), WIKI:EN:Super_Mario, WIKI:EN:Giovanni_Matteo_Mario, WIKI:EN:Bow_Wow_Wow, WIKI:EN:Mario_(given_name), WIKI:EN:Mario_(Italian_sitcom), WIKI:EN:Mario_(franchise), WIKI:EN:Mario_(film), WIKI:EN:Mario_(album), WIKI:EN:Mario_(Austrian_TV_series), WIKI:EN:Mario]
+Current synset for mario is WIKI:EN:Mario_(American_singer)
+any_hypernym score calculated for WIKI:EN:Mario_(American_singer)5.0/5 = 1.0
+any_holonym score calculated for WIKI:EN:Mario_(American_singer)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Mario_(American_singer)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Mario_(American_singer)0.0/0 = 0.0
+Current synset for mario is WIKI:EN:Super_Mario
+any_hypernym score calculated for WIKI:EN:Super_Mario3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Super_Mario0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Super_Mario0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Super_Mario0.0/0 = 0.0
+Current synset for mario is WIKI:EN:Giovanni_Matteo_Mario
+any_hypernym score calculated for WIKI:EN:Giovanni_Matteo_Mario2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Giovanni_Matteo_Mario0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Giovanni_Matteo_Mario0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Giovanni_Matteo_Mario0.0/0 = 0.0
+Current synset for mario is WIKI:EN:Bow_Wow_Wow
+any_hypernym score calculated for WIKI:EN:Bow_Wow_Wow2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Bow_Wow_Wow0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Bow_Wow_Wow0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Bow_Wow_Wow0.0/0 = 0.0
+Current synset for mario is WIKI:EN:Mario_(given_name)
+any_hypernym score calculated for WIKI:EN:Mario_(given_name)2.0/2 = 1.0
+any_holonym score calculated for WIKI:EN:Mario_(given_name)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Mario_(given_name)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Mario_(given_name)0.0/0 = 0.0
+Term index i=28 mario
+Term = mario Specific score = 0.22727272727272727 Generic score = 0.0 Term score = 0.11363636363636363
+
+
+
+
+Term is scarce
+[WIKI:EN:Scarce_(surname), scarcity#n#1, barely#r#1, scarce#a#1, WIKI:EN:Scarce_(band)]
+Current synset for scarce is WIKI:EN:Scarce_(surname)
+any_hypernym score calculated for WIKI:EN:Scarce_(surname)1.0/1 = 1.0
+any_holonym score calculated for WIKI:EN:Scarce_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Scarce_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Scarce_(surname)0.0/0 = 0.0
+Current synset for scarce is scarcity#n#1
+any_hypernym score calculated for scarcity#n#11.81789/2 = 0.908945
+any_holonym score calculated for scarcity#n#10.0/0 = 0.0
+any_hyponym score calculated for scarcity#n#12.61326/3 = 0.8710866666666667
+any_meronym score calculated for scarcity#n#10.0/0 = 0.0
+Current synset for scarce is barely#r#1
+any_hypernym score calculated for barely#r#10.0/0 = 0.0
+any_holonym score calculated for barely#r#10.0/0 = 0.0
+any_hyponym score calculated for barely#r#10.0/0 = 0.0
+any_meronym score calculated for barely#r#10.0/0 = 0.0
+Current synset for scarce is scarce#a#1
+any_hypernym score calculated for scarce#a#10.0/0 = 0.0
+any_holonym score calculated for scarce#a#10.0/0 = 0.0
+any_hyponym score calculated for scarce#a#10.0/0 = 0.0
+any_meronym score calculated for scarce#a#10.0/0 = 0.0
+Current synset for scarce is WIKI:EN:Scarce_(band)
+any_hypernym score calculated for WIKI:EN:Scarce_(band)4.0/4 = 1.0
+any_holonym score calculated for WIKI:EN:Scarce_(band)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Scarce_(band)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Scarce_(band)0.0/0 = 0.0
+Term index i=29 scarce
+Term = scarce Specific score = 0.2908945 Generic score = 0.08710866666666667 Term score = 0.10189291666666667
+
+
+
+
+Term is principle
+[bitter_principle#n#1, rationale#n#1, precept#n#1, principle#n#3, principle#n#2, principle#n#1, principle#n#4, WIKT:EN:principle]
+Current synset for principle is bitter_principle#n#1
+any_hypernym score calculated for bitter_principle#n#10.87721/1 = 0.87721
+any_holonym score calculated for bitter_principle#n#10.0/0 = 0.0
+any_hyponym score calculated for bitter_principle#n#10.0/0 = 0.0
+any_meronym score calculated for bitter_principle#n#10.0/0 = 0.0
+Current synset for principle is rationale#n#1
+any_hypernym score calculated for rationale#n#10.88052/1 = 0.88052
+any_holonym score calculated for rationale#n#10.0/0 = 0.0
+any_hyponym score calculated for rationale#n#10.67275/1 = 0.67275
+any_meronym score calculated for rationale#n#10.0/0 = 0.0
+Current synset for principle is precept#n#1
+any_hypernym score calculated for precept#n#11.91229/2 = 0.956145
+any_holonym score calculated for precept#n#10.8223/1 = 0.8223
+any_hyponym score calculated for precept#n#13.2751/4 = 0.818775
+any_meronym score calculated for precept#n#10.0/0 = 0.0
+Current synset for principle is principle#n#3
+any_hypernym score calculated for principle#n#33.8804499999999997/4 = 0.9701124999999999
+any_holonym score calculated for principle#n#30.0/0 = 0.0
+any_hyponym score calculated for principle#n#320.15391/21 = 0.95971
+any_meronym score calculated for principle#n#30.0/0 = 0.0
+Current synset for principle is principle#n#2
+any_hypernym score calculated for principle#n#20.8996/1 = 0.8996
+any_holonym score calculated for principle#n#20.0/0 = 0.0
+any_hyponym score calculated for principle#n#25.1454200000000005/6 = 0.85757
+any_meronym score calculated for principle#n#20.0/0 = 0.0
+Term index i=30 principle
+Term = principle Specific score = 0.33786796875 Generic score = 0.2068003125 Term score = 0.06553382812500001
+
+
+
+
+Term is marks
+[WIKIDATA:EN:Marks, WIKI:EN:Marks,_Mississippi, WIKI:EN:Marks_(producer), First_Baron_Marks_of_Broughton#n#1, WIKI:EN:Marks_(surname)]
+Current synset for marks is WIKIDATA:EN:Marks
+any_hypernym score calculated for WIKIDATA:EN:Marks6.0/6 = 1.0
+any_holonym score calculated for WIKIDATA:EN:Marks0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Marks0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Marks0.0/0 = 0.0
+Current synset for marks is WIKI:EN:Marks,_Mississippi
+any_hypernym score calculated for WIKI:EN:Marks,_Mississippi4.0/4 = 1.0
+any_holonym score calculated for WIKI:EN:Marks,_Mississippi0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Marks,_Mississippi0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Marks,_Mississippi0.0/0 = 0.0
+Current synset for marks is WIKI:EN:Marks_(producer)
+any_hypernym score calculated for WIKI:EN:Marks_(producer)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Marks_(producer)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Marks_(producer)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Marks_(producer)0.0/0 = 0.0
+Current synset for marks is First_Baron_Marks_of_Broughton#n#1
+any_hypernym score calculated for First_Baron_Marks_of_Broughton#n#10.77443/1 = 0.77443
+any_holonym score calculated for First_Baron_Marks_of_Broughton#n#10.0/0 = 0.0
+any_hyponym score calculated for First_Baron_Marks_of_Broughton#n#10.0/0 = 0.0
+any_meronym score calculated for First_Baron_Marks_of_Broughton#n#10.0/0 = 0.0
+Current synset for marks is WIKI:EN:Marks_(surname)
+any_hypernym score calculated for WIKI:EN:Marks_(surname)3.0/3 = 1.0
+any_holonym score calculated for WIKI:EN:Marks_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Marks_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Marks_(surname)0.0/0 = 0.0
+Term index i=31 marks
+Term = marks Specific score = 0.47744299999999995 Generic score = 0.0 Term score = 0.23872149999999998
+
+
+
+
+Term is economy

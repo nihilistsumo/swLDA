@@ -1,0 +1,446 @@
+Going to call iterateArray()
+Inside iterate array
+Term is february
+[WIKI:EN:February_(film), February#n#1]
+Synset taken for february is WIKI:EN:February_(film)
+any_hypernym score calculated for WIKI:EN:February_(film)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:February_(film)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:February_(film)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:February_(film)0.0/0 = 0.0
+Synset taken for february is February#n#1
+java.lang.NullPointerExceptionany_hypernym score calculated for February#n#10.13576/4 = 0.03394
+	at bbl.BabelUtil.calEdgeScore(BabelUtil.java:86)
+	at bbl.BabelUtil.calScore(BabelUtil.java:121)
+	at bbl.BabelUtil.iterateArray(BabelUtil.java:157)
+	at bbl.BabelnetMain.main(BabelnetMain.java:12)
+
+any_holonym score calculated for February#n#10.10297/1 = 0.10297
+any_hyponym score calculated for February#n#10.0/6 = 0.0
+any_meronym score calculated for February#n#10.48688999999999993/8 = 0.06086124999999999
+Term index i=0 february
+Specific score = 0.068455 Generic score = 0.030430624999999996
+Term score = 0.019012187500000003
+Term is frequencies
+[WIKI:EN:Frequencies_(album), frequency#n#1]
+Synset taken for frequencies is WIKI:EN:Frequencies_(album)
+any_hypernym score calculated for WIKI:EN:Frequencies_(album)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Frequencies_(album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Frequencies_(album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Frequencies_(album)0.0/0 = 0.0
+Synset taken for frequencies is frequency#n#1
+any_hypernym score calculated for frequency#n#10.0342/12 = 0.00285
+any_holonym score calculated for frequency#n#10.0/0 = 0.0
+any_hyponym score calculated for frequency#n#10.7585499999999998/11 = 0.0689590909090909
+any_meronym score calculated for frequency#n#10.0/0 = 0.0
+Term index i=1 frequencies
+Specific score = 0.001425 Generic score = 0.03447954545454545
+Term score = -0.016527272727272724
+Term is locked
+[WIKT:EN:locked, WIKT:EN:locked, WIKI:EN:Mutha's_Day_Out]
+Synset taken for locked is WIKT:EN:locked
+any_hypernym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_holonym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_hyponym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_meronym score calculated for WIKT:EN:locked0.0/0 = 0.0
+Synset taken for locked is WIKT:EN:locked
+any_hypernym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_holonym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_hyponym score calculated for WIKT:EN:locked0.0/0 = 0.0
+any_meronym score calculated for WIKT:EN:locked0.0/0 = 0.0
+Synset taken for locked is WIKI:EN:Mutha's_Day_Out
+any_hypernym score calculated for WIKI:EN:Mutha's_Day_Out0.0/4 = 0.0
+any_holonym score calculated for WIKI:EN:Mutha's_Day_Out0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Mutha's_Day_Out0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Mutha's_Day_Out0.0/0 = 0.0
+Term index i=2 locked
+Specific score = 0.0 Generic score = 0.0
+Term score = 0.0
+Term is panel
+[control_panel#n#1, panel#n#4, WIKI:EN:panel_(comics), panel#n#3, panel#n#1, jury#n#2, panel#n#6, empanel#v#2, WIKIDATA:EN:panel, panel#n#5, panel#v#1, dialog_box#n#1]
+Synset taken for panel is control_panel#n#1
+any_hypernym score calculated for control_panel#n#10.06798/1 = 0.06798
+any_holonym score calculated for control_panel#n#10.0/0 = 0.0
+any_hyponym score calculated for control_panel#n#10.27128/1 = 0.27128
+any_meronym score calculated for control_panel#n#10.36671/1 = 0.36671
+Synset taken for panel is panel#n#4
+any_hypernym score calculated for panel#n#40.09549/1 = 0.09549
+any_holonym score calculated for panel#n#40.0/0 = 0.0
+any_hyponym score calculated for panel#n#40.0/0 = 0.0
+any_meronym score calculated for panel#n#40.22703/1 = 0.22703
+Synset taken for panel is WIKI:EN:panel_(comics)
+any_hypernym score calculated for WIKI:EN:panel_(comics)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:panel_(comics)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:panel_(comics)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:panel_(comics)0.0/0 = 0.0
+Synset taken for panel is panel#n#3
+any_hypernym score calculated for panel#n#30.14706/1 = 0.14706
+any_holonym score calculated for panel#n#30.0/0 = 0.0
+any_hyponym score calculated for panel#n#30.0/0 = 0.0
+any_meronym score calculated for panel#n#30.0/0 = 0.0
+Synset taken for panel is panel#n#1
+any_hypernym score calculated for panel#n#10.07049/1 = 0.07049
+any_holonym score calculated for panel#n#10.0/0 = 0.0
+any_hyponym score calculated for panel#n#10.6958599999999999/7 = 0.09940857142857142
+any_meronym score calculated for panel#n#10.0/0 = 0.0
+Synset taken for panel is jury#n#2
+any_hypernym score calculated for jury#n#20.11636/1 = 0.11636
+any_holonym score calculated for jury#n#20.0/0 = 0.0
+any_hyponym score calculated for jury#n#20.0/0 = 0.0
+any_meronym score calculated for jury#n#20.0/0 = 0.0
+Synset taken for panel is panel#n#6
+any_hypernym score calculated for panel#n#60.06923/1 = 0.06923
+any_holonym score calculated for panel#n#60.56697/3 = 0.18899
+any_hyponym score calculated for panel#n#60.0/0 = 0.0
+any_meronym score calculated for panel#n#60.0/0 = 0.0
+Synset taken for panel is empanel#v#2
+any_hypernym score calculated for empanel#v#20.09976/1 = 0.09976
+any_holonym score calculated for empanel#v#20.0/0 = 0.0
+any_hyponym score calculated for empanel#v#20.0/0 = 0.0
+any_meronym score calculated for empanel#v#20.0/0 = 0.0
+Synset taken for panel is WIKIDATA:EN:panel
+any_hypernym score calculated for WIKIDATA:EN:panel0.0/3 = 0.0
+any_holonym score calculated for WIKIDATA:EN:panel0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:panel0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:panel0.0/0 = 0.0
+Synset taken for panel is panel#n#5
+any_hypernym score calculated for panel#n#50.83128/1 = 0.83128
+any_holonym score calculated for panel#n#50.0/0 = 0.0
+any_hyponym score calculated for panel#n#50.0/0 = 0.0
+any_meronym score calculated for panel#n#50.0/0 = 0.0
+Synset taken for panel is panel#v#1
+any_hypernym score calculated for panel#v#10.07142/1 = 0.07142
+any_holonym score calculated for panel#v#10.0/0 = 0.0
+any_hyponym score calculated for panel#v#10.0/0 = 0.0
+any_meronym score calculated for panel#v#10.0/0 = 0.0
+Synset taken for panel is dialog_box#n#1
+any_hypernym score calculated for dialog_box#n#10.24903/3 = 0.08301
+any_holonym score calculated for dialog_box#n#10.20375/1 = 0.20375
+any_hyponym score calculated for dialog_box#n#10.0/2 = 0.0
+any_meronym score calculated for dialog_box#n#10.0/0 = 0.0
+Term index i=3 panel
+Specific score = 1.02241 Generic score = 0.48221428571428576
+Term score = -0.3521971428571431
+Term is norton
+[WIKI:EN:Norton_(surname), WIKI:EN:Norton,_Virginia, WIKIDATA:EN:Norton, WIKI:EN:Norton,_Doncaster, WIKI:EN:Norton,_Ohio, WIKI:EN:Norton,_Kansas, WIKI:EN:Norton,_Zimbabwe, WIKI:EN:Norton,_Massachusetts, WIKI:EN:Norton_(given_name), WIKI:EN:Norton,_Vermont, WIKI:EN:Norton_Motorcycle_Company, WIKI:EN:Norton_(grape), WIKI:EN:McGear, WIKI:EN:Norton_(1745_cricketer)]
+Synset taken for norton is WIKI:EN:Norton_(surname)
+any_hypernym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton_(surname)0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Virginia
+any_hypernym score calculated for WIKI:EN:Norton,_Virginia0.0/3 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Virginia0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Virginia0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Virginia0.0/0 = 0.0
+Synset taken for norton is WIKIDATA:EN:Norton
+any_hypernym score calculated for WIKIDATA:EN:Norton0.0/2 = 0.0
+any_holonym score calculated for WIKIDATA:EN:Norton0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Norton0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Norton0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Doncaster
+any_hypernym score calculated for WIKI:EN:Norton,_Doncaster0.0/3 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Doncaster0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Doncaster0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Doncaster0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Ohio
+any_hypernym score calculated for WIKI:EN:Norton,_Ohio0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Ohio0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Ohio0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Ohio0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Kansas
+any_hypernym score calculated for WIKI:EN:Norton,_Kansas0.0/3 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Kansas0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Kansas0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Kansas0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Zimbabwe
+any_hypernym score calculated for WIKI:EN:Norton,_Zimbabwe0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Zimbabwe0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Zimbabwe0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Zimbabwe0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Massachusetts
+any_hypernym score calculated for WIKI:EN:Norton,_Massachusetts0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Massachusetts0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Massachusetts0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Massachusetts0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton_(given_name)
+any_hypernym score calculated for WIKI:EN:Norton_(given_name)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Norton_(given_name)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton_(given_name)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton_(given_name)0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton,_Vermont
+any_hypernym score calculated for WIKI:EN:Norton,_Vermont0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Norton,_Vermont0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton,_Vermont0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton,_Vermont0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton_Motorcycle_Company
+any_hypernym score calculated for WIKI:EN:Norton_Motorcycle_Company0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Norton_Motorcycle_Company0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton_Motorcycle_Company0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton_Motorcycle_Company0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton_(grape)
+any_hypernym score calculated for WIKI:EN:Norton_(grape)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Norton_(grape)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton_(grape)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton_(grape)0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:McGear
+any_hypernym score calculated for WIKI:EN:McGear0.0/3 = 0.0
+any_holonym score calculated for WIKI:EN:McGear0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:McGear0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:McGear0.0/0 = 0.0
+Synset taken for norton is WIKI:EN:Norton_(1745_cricketer)
+any_hypernym score calculated for WIKI:EN:Norton_(1745_cricketer)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Norton_(1745_cricketer)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Norton_(1745_cricketer)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Norton_(1745_cricketer)0.0/0 = 0.0
+Term index i=4 norton
+Specific score = 0.0 Generic score = 0.0
+Term score = 0.0
+Term is boosted
+[]
+Term index i=5 boosted
+Specific score = 0.0 Generic score = 0.0
+Term score = 0.0
+Term is investec
+[WIKI:EN:Investec]
+Synset taken for investec is WIKI:EN:Investec
+any_hypernym score calculated for WIKI:EN:Investec0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Investec0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Investec0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Investec0.0/0 = 0.0
+Term index i=6 investec
+Specific score = 0.0 Generic score = 0.0
+Term score = 0.0
+Term is disappointed
+[WIKI:EN:9_(Public_Image_Ltd_album), defeated#a#2, disappointment#n#1, WIKI:EN:Disappointed]
+Synset taken for disappointed is WIKI:EN:9_(Public_Image_Ltd_album)
+any_hypernym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:9_(Public_Image_Ltd_album)0.0/0 = 0.0
+Synset taken for disappointed is defeated#a#2
+any_hypernym score calculated for defeated#a#20.0/0 = 0.0
+any_holonym score calculated for defeated#a#20.0/0 = 0.0
+any_hyponym score calculated for defeated#a#20.0/0 = 0.0
+any_meronym score calculated for defeated#a#20.0/0 = 0.0
+Synset taken for disappointed is disappointment#n#1
+any_hypernym score calculated for disappointment#n#10.17782/2 = 0.08891
+any_holonym score calculated for disappointment#n#10.0/0 = 0.0
+any_hyponym score calculated for disappointment#n#10.24894/1 = 0.24894
+any_meronym score calculated for disappointment#n#10.0/1 = 0.0
+Synset taken for disappointed is WIKI:EN:Disappointed
+any_hypernym score calculated for WIKI:EN:Disappointed0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Disappointed0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Disappointed0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Disappointed0.0/0 = 0.0
+Term index i=7 disappointed
+Specific score = 0.044455 Generic score = 0.12447
+Term score = -0.080015
+Term is showcase
+[show_window#n#1, WIKI:EN:Showcase_(Australian_TV_channel), WIKI:EN:Showcase_(Philly_Joe_Jones_album), case#n#20, WIKI:EN:Showcase_(comics), WIKI:EN:The_Price_Is_Right_(U.S._game_show), WIKT:EN:showcase, WIKI:EN:Showcase_(The_Sylvers_album), WIKI:EN:Showcase_(Canadian_TV_channel), WIKI:EN:Showtime_(TV_network), WIKI:EN:Showcase_(Firefox_extension), WIKI:EN:Showcase_(retailer)]
+Synset taken for showcase is show_window#n#1
+any_hypernym score calculated for show_window#n#10.96471/1 = 0.96471
+any_holonym score calculated for show_window#n#10.0/0 = 0.0
+any_hyponym score calculated for show_window#n#10.0/0 = 0.0
+any_meronym score calculated for show_window#n#10.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(Australian_TV_channel)
+any_hypernym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(Australian_TV_channel)0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(Philly_Joe_Jones_album)
+any_hypernym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(Philly_Joe_Jones_album)0.0/0 = 0.0
+Synset taken for showcase is case#n#20
+any_hypernym score calculated for case#n#200.07654/4 = 0.019135
+any_holonym score calculated for case#n#200.0/0 = 0.0
+any_hyponym score calculated for case#n#200.35719/1 = 0.35719
+any_meronym score calculated for case#n#200.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(comics)
+any_hypernym score calculated for WIKI:EN:Showcase_(comics)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(comics)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(comics)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(comics)0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:The_Price_Is_Right_(U.S._game_show)
+any_hypernym score calculated for WIKI:EN:The_Price_Is_Right_(U.S._game_show)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:The_Price_Is_Right_(U.S._game_show)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:The_Price_Is_Right_(U.S._game_show)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:The_Price_Is_Right_(U.S._game_show)0.0/0 = 0.0
+Synset taken for showcase is WIKT:EN:showcase
+any_hypernym score calculated for WIKT:EN:showcase0.0/0 = 0.0
+any_holonym score calculated for WIKT:EN:showcase0.0/0 = 0.0
+any_hyponym score calculated for WIKT:EN:showcase0.0/0 = 0.0
+any_meronym score calculated for WIKT:EN:showcase0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(The_Sylvers_album)
+any_hypernym score calculated for WIKI:EN:Showcase_(The_Sylvers_album)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(The_Sylvers_album)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(The_Sylvers_album)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(The_Sylvers_album)0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(Canadian_TV_channel)
+any_hypernym score calculated for WIKI:EN:Showcase_(Canadian_TV_channel)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(Canadian_TV_channel)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(Canadian_TV_channel)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(Canadian_TV_channel)0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showtime_(TV_network)
+any_hypernym score calculated for WIKI:EN:Showtime_(TV_network)0.0/3 = 0.0
+any_holonym score calculated for WIKI:EN:Showtime_(TV_network)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showtime_(TV_network)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showtime_(TV_network)0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(Firefox_extension)
+any_hypernym score calculated for WIKI:EN:Showcase_(Firefox_extension)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(Firefox_extension)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(Firefox_extension)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(Firefox_extension)0.0/0 = 0.0
+Synset taken for showcase is WIKI:EN:Showcase_(retailer)
+any_hypernym score calculated for WIKI:EN:Showcase_(retailer)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Showcase_(retailer)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Showcase_(retailer)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Showcase_(retailer)0.0/0 = 0.0
+Term index i=8 showcase
+Specific score = 0.4919225 Generic score = 0.178595
+Term score = 2.133506249999999
+Term is gamble
+[gamble#v#2, crapshoot#n#1, gamble#n#1, gamble#n#2, WIKI:EN:Gamble_(surname), gamble#v#1]
+Synset taken for gamble is gamble#v#2
+any_hypernym score calculated for gamble#v#20.02369/1 = 0.02369
+any_holonym score calculated for gamble#v#20.0/0 = 0.0
+any_hyponym score calculated for gamble#v#20.53172/4 = 0.13293
+any_meronym score calculated for gamble#v#20.0/0 = 0.0
+Synset taken for gamble is crapshoot#n#1
+any_hypernym score calculated for crapshoot#n#10.30452/1 = 0.30452
+any_holonym score calculated for crapshoot#n#10.0/0 = 0.0
+any_hyponym score calculated for crapshoot#n#10.0/0 = 0.0
+any_meronym score calculated for crapshoot#n#10.0/0 = 0.0
+Synset taken for gamble is gamble#n#1
+any_hypernym score calculated for gamble#n#10.2408/1 = 0.2408
+any_holonym score calculated for gamble#n#10.0/0 = 0.0
+any_hyponym score calculated for gamble#n#10.21886/1 = 0.21886
+any_meronym score calculated for gamble#n#10.0/0 = 0.0
+Synset taken for gamble is gamble#n#2
+any_hypernym score calculated for gamble#n#20.21697/1 = 0.21697
+any_holonym score calculated for gamble#n#20.0/0 = 0.0
+any_hyponym score calculated for gamble#n#20.32494/2 = 0.16247
+any_meronym score calculated for gamble#n#20.0/0 = 0.0
+Synset taken for gamble is WIKI:EN:Gamble_(surname)
+any_hypernym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+any_holonym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Gamble_(surname)0.0/0 = 0.0
+Synset taken for gamble is gamble#v#1
+any_hypernym score calculated for gamble#v#10.06222/1 = 0.06222
+any_holonym score calculated for gamble#v#10.0/0 = 0.0
+any_hyponym score calculated for gamble#v#10.14996/2 = 0.07498
+any_meronym score calculated for gamble#v#10.0/0 = 0.0
+Term index i=9 gamble
+Specific score = 0.42410000000000003 Generic score = 0.29462
+Term score = 0.2764150000000001
+Term is lima
+[WIKI:EN:Indigitamenta, WIKI:EN:Lima_(restaurant), WIKI:EN:Lima,_Pennsylvania, WIKIDATA:EN:Lima, WIKI:EN:Lima,_Paraguay, WIKIDATA:EN:Lima, WIKI:EN:Lima_(Buenos_Aires_Underground), WIKI:EN:Lima_(Milan_Metro), WIKI:EN:Lima,_Pepin_County,_Wisconsin, WIKI:EN:Lima,_Sweden, WIKI:EN:Lima_(footballer), Lima#n#1, WIKI:EN:Internal_thoracic_artery, WIKI:EN:Lima,_Montana, WIKI:EN:Lima,_Illinois, WIKI:EN:Lima_Region, WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot, WIKI:EN:Lima_(models), WIKI:EN:Lima,_Ohio, WIKIDATA:EN:Lima, WIKI:EN:Lima,_Oklahoma, WIKIDATA:EN:Lima, WIKIDATA:EN:Lima, WIKIDATA:EN:Lima, WIKI:EN:Lima_(surname), WIKI:EN:Lima_(genus)]
+Synset taken for lima is WIKI:EN:Indigitamenta
+any_hypernym score calculated for WIKI:EN:Indigitamenta0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Indigitamenta0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Indigitamenta0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Indigitamenta0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima_(restaurant)
+any_hypernym score calculated for WIKI:EN:Lima_(restaurant)0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_(restaurant)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_(restaurant)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_(restaurant)0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Pennsylvania
+any_hypernym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Pennsylvania0.0/0 = 0.0
+Synset taken for lima is WIKIDATA:EN:Lima
+any_hypernym score calculated for WIKIDATA:EN:Lima0.0/1 = 0.0
+any_holonym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Paraguay
+any_hypernym score calculated for WIKI:EN:Lima,_Paraguay0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Paraguay0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Paraguay0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Paraguay0.0/0 = 0.0
+Synset taken for lima is WIKIDATA:EN:Lima
+any_hypernym score calculated for WIKIDATA:EN:Lima0.0/1 = 0.0
+any_holonym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima_(Buenos_Aires_Underground)
+any_hypernym score calculated for WIKI:EN:Lima_(Buenos_Aires_Underground)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_(Buenos_Aires_Underground)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_(Buenos_Aires_Underground)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_(Buenos_Aires_Underground)0.0/1 = 0.0
+Synset taken for lima is WIKI:EN:Lima_(Milan_Metro)
+any_hypernym score calculated for WIKI:EN:Lima_(Milan_Metro)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_(Milan_Metro)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_(Milan_Metro)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_(Milan_Metro)0.0/1 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Pepin_County,_Wisconsin
+any_hypernym score calculated for WIKI:EN:Lima,_Pepin_County,_Wisconsin0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Pepin_County,_Wisconsin0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Pepin_County,_Wisconsin0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Pepin_County,_Wisconsin0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Sweden
+any_hypernym score calculated for WIKI:EN:Lima,_Sweden0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Sweden0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Sweden0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Sweden0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima_(footballer)
+any_hypernym score calculated for WIKI:EN:Lima_(footballer)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_(footballer)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_(footballer)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_(footballer)0.0/0 = 0.0
+Synset taken for lima is Lima#n#1
+any_hypernym score calculated for Lima#n#10.05012/18 = 0.0027844444444444444
+any_holonym score calculated for Lima#n#10.19134/1 = 0.19134
+any_hyponym score calculated for Lima#n#10.0/1 = 0.0
+any_meronym score calculated for Lima#n#10.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Internal_thoracic_artery
+any_hypernym score calculated for WIKI:EN:Internal_thoracic_artery0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Internal_thoracic_artery0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Internal_thoracic_artery0.0/1 = 0.0
+any_meronym score calculated for WIKI:EN:Internal_thoracic_artery0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Montana
+any_hypernym score calculated for WIKI:EN:Lima,_Montana0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Montana0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Montana0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Montana0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Illinois
+any_hypernym score calculated for WIKI:EN:Lima,_Illinois0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Illinois0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Illinois0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Illinois0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima_Region
+any_hypernym score calculated for WIKI:EN:Lima_Region0.0/7 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_Region0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_Region0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_Region0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot
+any_hypernym score calculated for WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima_(models)
+any_hypernym score calculated for WIKI:EN:Lima_(models)0.0/2 = 0.0
+any_holonym score calculated for WIKI:EN:Lima_(models)0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima_(models)0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima_(models)0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Ohio
+any_hypernym score calculated for WIKI:EN:Lima,_Ohio0.0/4 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Ohio0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Ohio0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Ohio0.0/0 = 0.0
+Synset taken for lima is WIKIDATA:EN:Lima
+any_hypernym score calculated for WIKIDATA:EN:Lima0.0/2 = 0.0
+any_holonym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_hyponym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+any_meronym score calculated for WIKIDATA:EN:Lima0.0/0 = 0.0
+Synset taken for lima is WIKI:EN:Lima,_Oklahoma
+any_hypernym score calculated for WIKI:EN:Lima,_Oklahoma0.0/1 = 0.0
+any_holonym score calculated for WIKI:EN:Lima,_Oklahoma0.0/0 = 0.0
+any_hyponym score calculated for WIKI:EN:Lima,_Oklahoma0.0/0 = 0.0
+any_meronym score calculated for WIKI:EN:Lima,_Oklahoma0.0/0 = 0.0
+Synset taken for lima is WIKIDATA:EN:Lima
+

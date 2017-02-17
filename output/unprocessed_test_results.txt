@@ -1,0 +1,1571 @@
+[ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM /home/sumanta/workspace/ThesisTester/config/babelnet.properties
+[ INFO  ] BabelNet - BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+Examining p008.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p008.txt accuracy = 2137.889
+
+
+
+Examining e010.txt
+Actual topic entertainment#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+e010.txt accuracy = 1022.09875
+
+
+
+Examining p011.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p011.txt accuracy = 2351.5122
+
+
+
+Examining b020.txt
+Actual topic business#n#2
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+b020.txt accuracy = 919.689
+
+
+
+Examining e013.txt
+Actual topic entertainment#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+e013.txt accuracy = 921.18774
+
+
+
+Examining s014.txt
+Actual topic jock#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+s014.txt accuracy = 619.89844
+
+
+
+Examining s002.txt
+Actual topic jock#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+s002.txt accuracy = 582.2373
+
+
+
+Examining b007.txt
+Actual topic business#n#2
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+b007.txt accuracy = 698.52966
+
+
+
+Examining s018.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s018.txt accuracy = 631.8367
+
+
+
+Examining e004.txt
+Actual topic entertainment#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+e004.txt accuracy = 889.2041
+
+
+
+Examining b004.txt
+Actual topic business#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+b004.txt accuracy = 785.57825
+
+
+
+Examining b021.txt
+Actual topic business#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+b021.txt accuracy = 774.0642
+
+
+
+Examining t016.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t016.txt accuracy = 4000.8958
+
+
+
+Examining s012.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s012.txt accuracy = 998.7662
+
+
+
+Examining p004.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p004.txt accuracy = 2348.5957
+
+
+
+Examining t021.txt
+Actual topic engineering#n#2
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+t021.txt accuracy = 4055.8438
+
+
+
+Examining p021.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p021.txt accuracy = 2588.538
+
+
+
+Examining s001.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s001.txt accuracy = 841.8376
+
+
+
+Examining e014.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e014.txt accuracy = 863.47974
+
+
+
+Examining e019.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e019.txt accuracy = 866.18494
+
+
+
+Examining t010.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t010.txt accuracy = 4011.1318
+
+
+
+Examining t011.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t011.txt accuracy = 4360.5703
+
+
+
+Examining s021.txt
+Actual topic jock#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+s021.txt accuracy = 1100.0634
+
+
+
+Examining e008.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e008.txt accuracy = 895.75793
+
+
+
+Examining t009.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t009.txt accuracy = 4014.4175
+
+
+
+Examining t001.txt
+Actual topic engineering#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+t001.txt accuracy = 4115.9355
+
+
+
+Examining p015.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p015.txt accuracy = 2738.242
+
+
+
+Examining e020.txt
+Actual topic entertainment#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+e020.txt accuracy = 1123.2491
+
+
+
+Examining p010.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p010.txt accuracy = 2262.6943
+
+
+
+Examining e017.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e017.txt accuracy = 1041.0868
+
+
+
+Examining t012.txt
+Actual topic engineering#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+t012.txt accuracy = 3785.5652
+
+
+
+Examining e001.txt
+Actual topic entertainment#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+e001.txt accuracy = 1256.5073
+
+
+
+Examining b014.txt
+Actual topic business#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+b014.txt accuracy = 758.5008
+
+
+
+Examining b008.txt
+Actual topic business#n#2
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+b008.txt accuracy = 780.5001
+
+
+
+Examining e003.txt
+Actual topic entertainment#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+e003.txt accuracy = 922.6111
+
+
+
+Examining s016.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s016.txt accuracy = 656.7346
+
+
+
+Examining s020.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s020.txt accuracy = 627.1927
+
+
+
+Examining s007.txt
+Actual topic jock#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+s007.txt accuracy = 583.14905
+
+
+
+Examining b006.txt
+Actual topic business#n#2
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+b006.txt accuracy = 761.01654
+
+
+
+Examining p013.txt
+Actual topic politics#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+p013.txt accuracy = 2342.4463
+
+
+
+Examining p007.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p007.txt accuracy = 2516.5557
+
+
+
+Examining s017.txt
+Actual topic jock#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+s017.txt accuracy = 819.31946
+
+
+
+Examining e015.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e015.txt accuracy = 860.6649
+
+
+
+Examining e011.txt
+Actual topic entertainment#n#1
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+e011.txt accuracy = 929.62946
+
+
+
+Examining t008.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t008.txt accuracy = 4018.181
+
+
+
+Examining t015.txt
+Actual topic engineering#n#2
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+t015.txt accuracy = 4241.3535
+
+
+
+Examining e006.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e006.txt accuracy = 1288.4192
+
+
+
+Examining e012.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e012.txt accuracy = 919.30237
+
+
+
+Examining s011.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s011.txt accuracy = 656.36694
+
+
+
+Examining t006.txt
+Actual topic engineering#n#2
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+t006.txt accuracy = 3867.8186
+
+
+
+Examining s015.txt
+Actual topic jock#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+s015.txt accuracy = 988.2273
+
+
+
+Examining b001.txt
+Actual topic business#n#2
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+b001.txt accuracy = 798.4697
+
+
+
+Examining t005.txt
+Actual topic engineering#n#2
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+t005.txt accuracy = 3980.5586
+
+
+
+Examining e009.txt
+Actual topic entertainment#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+e009.txt accuracy = 1226.8398
+
+
+
+Examining t007.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t007.txt accuracy = 4051.2043
+
+
+
+Examining t019.txt
+Actual topic engineering#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+t019.txt accuracy = 4120.0225
+
+
+
+Examining p003.txt
+Actual topic politics#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+p003.txt accuracy = 2715.6692
+
+
+
+Examining e018.txt
+Actual topic entertainment#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+e018.txt accuracy = 1086.2965
+
+
+
+Examining p017.txt
+Actual topic politics#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+p017.txt accuracy = 2378.5886
+
+
+
+Examining t003.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t003.txt accuracy = 4179.177
+
+
+
+Examining t014.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t014.txt accuracy = 4379.2417
+
+
+
+Examining b016.txt
+Actual topic business#n#2
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+b016.txt accuracy = 1175.2491
+
+
+
+Examining b018.txt
+Actual topic business#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+b018.txt accuracy = 749.4721
+
+
+
+Examining b002.txt
+Actual topic business#n#2
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+b002.txt accuracy = 779.4969
+
+
+
+Examining b011.txt
+Actual topic business#n#2
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+b011.txt accuracy = 775.27747
+
+
+
+Examining b005.txt
+Actual topic business#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+b005.txt accuracy = 705.0308
+
+
+
+Examining t017.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t017.txt accuracy = 3993.2256
+
+
+
+Examining s006.txt
+Actual topic jock#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+s006.txt accuracy = 1059.2473
+
+
+
+Examining p001.txt
+Actual topic politics#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+p001.txt accuracy = 2375.583
+
+
+
+Examining p005.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p005.txt accuracy = 2520.6978
+
+
+
+Examining p012.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p012.txt accuracy = 2417.9663
+
+
+
+Examining t004.txt
+Actual topic engineering#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+t004.txt accuracy = 3938.552
+
+
+
+Examining b015.txt
+Actual topic business#n#2
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+b015.txt accuracy = 1118.069
+
+
+
+Examining s013.txt
+Actual topic jock#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+s013.txt accuracy = 739.7854
+
+
+
+Examining t002.txt
+Actual topic engineering#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+t002.txt accuracy = 3997.0872
+
+
+
+Examining p016.txt
+Actual topic politics#n#1
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+p016.txt accuracy = 2457.0095
+
+
+
+Examining b019.txt
+Actual topic business#n#2
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+b019.txt accuracy = 932.8762
+
+
+
+Examining p002.txt
+Actual topic politics#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+p002.txt accuracy = 2361.5417
+
+
+
+Examining b009.txt
+Actual topic business#n#2
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+b009.txt accuracy = 958.6158
+
+
+
+Examining b003.txt
+Actual topic business#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+b003.txt accuracy = 793.29065
+
+
+
+Examining p018.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p018.txt accuracy = 2322.9114
+
+
+
+Examining b017.txt
+Actual topic business#n#2
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+b017.txt accuracy = 876.9901
+
+
+
+Examining s008.txt
+Actual topic jock#n#1
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+s008.txt accuracy = 649.7767
+
+
+
+Examining s003.txt
+Actual topic jock#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+s003.txt accuracy = 687.7529
+
+
+
+Examining p019.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p019.txt accuracy = 2309.7192
+
+
+
+Examining t020.txt
+Actual topic engineering#n#2
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+t020.txt accuracy = 3874.191
+
+
+
+Examining p009.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p009.txt accuracy = 2568.3545
+
+
+
+Examining p006.txt
+Actual topic politics#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+p006.txt accuracy = 2544.7944
+
+
+
+Examining e021.txt
+Actual topic entertainment#n#1
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+e021.txt accuracy = 1116.755
+
+
+
+Examining b012.txt
+Actual topic business#n#2
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+b012.txt accuracy = 820.3061
+
+
+
+Examining p020.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p020.txt accuracy = 2229.0342
+
+
+
+Examining s009.txt
+Actual topic jock#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+s009.txt accuracy = 801.8927
+
+
+
+Examining e007.txt
+Actual topic entertainment#n#1
+Highest topic #3
+Choosing synset ingestion#n#1
+Choosing synset research#n#1
+Choosing synset nightclub#n#1
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset newspaper_publisher#n#1
+Choosing synset portray#v#4
+Choosing synset message#n#1
+Choosing synset get#v#9
+e007.txt accuracy = 908.0992
+
+
+
+Examining p014.txt
+Actual topic politics#n#1
+Highest topic #2
+Choosing synset ingestion#n#1
+Choosing synset loss_leader#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset honeydew#n#1
+Choosing synset vision#n#5
+Choosing synset workforce#n#1
+Choosing synset nightclub#n#1
+Choosing synset also#r#1
+p014.txt accuracy = 2238.7888
+
+
+
+Examining e005.txt
+Actual topic entertainment#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+e005.txt accuracy = 1038.0986
+
+
+
+Examining e002.txt
+Actual topic entertainment#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+e002.txt accuracy = 899.89984
+
+
+
+Examining t013.txt
+Actual topic engineering#n#2
+Highest topic #4
+Choosing synset get#v#9
+Choosing synset ingestion#n#1
+Choosing synset lamp#n#1
+Choosing synset doubling#n#1
+Choosing synset library#n#2
+Choosing synset policy#n#2
+Choosing synset force#n#2
+Choosing synset message#n#1
+Choosing synset interview#n#1
+t013.txt accuracy = 3769.8777
+
+
+
+Examining s010.txt
+Actual topic jock#n#1
+Highest topic #5
+Choosing synset ingestion#n#1
+Choosing synset honeydew#n#1
+Choosing synset get#v#9
+Choosing synset force#n#2
+Choosing synset portray#v#4
+Choosing synset violence#n#2
+Choosing synset Democratic_Party#n#1
+Choosing synset region#n#3
+Choosing synset hypocrite#n#1
+s010.txt accuracy = 1034.4309
+
+
+
+Examining b010.txt
+Actual topic business#n#2
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+b010.txt accuracy = 755.05383
+
+
+
+Examining s004.txt
+Actual topic jock#n#1
+Highest topic #1
+Choosing synset ingestion#n#1
+Choosing synset get#v#9
+Choosing synset loss_leader#n#1
+Choosing synset vision#n#5
+Choosing synset portray#v#4
+Choosing synset force#n#2
+Choosing synset key#v#5
+Choosing synset 100#n#1
+s004.txt accuracy = 599.1317

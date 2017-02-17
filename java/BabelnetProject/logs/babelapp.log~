@@ -1,0 +1,2245 @@
+2016-06-19 10:54:54,664 INFO i.u.l.b.BabelNetConfiguration [main] Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+2016-06-19 10:54:55,155 INFO i.u.l.b.BabelNet [main] BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+2016-06-19 10:54:55,155 INFO b.SimpleDemo [main] Logging started
+2016-06-19 11:00:28,837 INFO i.u.l.b.BabelNetConfiguration [main] Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+2016-06-19 11:00:29,125 INFO i.u.l.b.BabelNet [main] BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+2016-06-19 11:00:29,125 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:00:29,125 INFO b.SimpleDemo [main] Extracting senses of term: february
+2016-06-19 11:00:29,125 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:00:31,621 INFO b.SimpleDemo [main] Synset ID: bn:14121263n
+2016-06-19 11:00:32,177 INFO b.SimpleDemo [main] WIKI:EN:February_(film)
+2016-06-19 11:00:32,177 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:00:32,177 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:34,058 INFO b.SimpleDemo [main] bn:14121263n	February_(film) - hypernym - 0.0 - film
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] bn:14121263n	February_(film) - hypernym - 0.0 - film
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:00:35,060 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:35,061 INFO b.SimpleDemo [main] Synset ID: bn:00033882n
+2016-06-19 11:00:35,637 INFO b.SimpleDemo [main] WN:EN:February
+2016-06-19 11:00:35,638 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:00:35,638 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:37,886 INFO b.SimpleDemo [main] bn:00033882n	February - hypernym - 0.0 - month
+2016-06-19 11:00:39,114 INFO b.SimpleDemo [main] bn:00033882n	February - subclass_of - 0.02745 - month
+2016-06-19 11:00:40,333 INFO b.SimpleDemo [main] bn:00033882n	February - hypernym - 0.10831 - Gregorian_calendar_month
+2016-06-19 11:00:41,314 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:00:41,314 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:42,494 INFO b.SimpleDemo [main] bn:00033882n	February - hyponym - 0.0 - Groundhog_Day
+2016-06-19 11:00:43,815 INFO b.SimpleDemo [main] bn:00033882n	February - hyponym - 0.0 - February_30
+2016-06-19 11:00:45,048 INFO b.SimpleDemo [main] bn:00033882n	February - hyponym - 0.0 - 1948_Czechoslovak_coup_d'état
+2016-06-19 11:00:46,273 INFO b.SimpleDemo [main] bn:00033882n	February - hyponym - 0.0 - February_2003
+2016-06-19 11:00:47,708 INFO b.SimpleDemo [main] bn:00033882n	February - hyponym - 0.0 - Día_de_Andalucía
+2016-06-19 11:00:48,937 INFO b.SimpleDemo [main] bn:00033882n	February - hyponym - 0.0 - February_2006
+2016-06-19 11:00:48,937 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:00:48,937 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:50,166 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.04335 - mid-February
+2016-06-19 11:00:51,407 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.07234 - Valentine's_Day
+2016-06-19 11:00:52,623 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.06647 - Groundhog_Day
+2016-06-19 11:00:53,853 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.06462 - February_29
+2016-06-19 11:00:55,082 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.05348 - February_22
+2016-06-19 11:00:56,309 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.05085 - Presidents'_Day
+2016-06-19 11:00:57,481 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.05681 - February_12
+2016-06-19 11:00:58,767 INFO b.SimpleDemo [main] bn:00033882n	February - part_meronym - 0.07897 - Candlemas
+2016-06-19 11:00:58,767 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:00:58,767 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:00:59,998 INFO b.SimpleDemo [main] bn:00033882n	February - part_holonym - 0.10297 - Gregorian_calendar
+2016-06-19 11:00:59,999 INFO b.SimpleDemo [main] Current term having index(i) = 0 finished processing
+2016-06-19 11:00:59,999 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:00:59,999 INFO b.SimpleDemo [main] Extracting senses of term: frequencies
+2016-06-19 11:01:00,001 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:01:00,605 INFO b.SimpleDemo [main] Synset ID: bn:03898594n
+2016-06-19 11:01:01,224 INFO b.SimpleDemo [main] WIKI:EN:Frequencies_(album)
+2016-06-19 11:01:01,224 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:01,224 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:03,070 INFO b.SimpleDemo [main] bn:03898594n	Frequencies_(album) - hypernym - 0.0 - album
+2016-06-19 11:01:03,070 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:03,070 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:03,070 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:03,070 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:03,071 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:03,071 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:03,071 INFO b.SimpleDemo [main] Synset ID: bn:00036471n
+2016-06-19 11:01:03,684 INFO b.SimpleDemo [main] WN:EN:frequency
+2016-06-19 11:01:03,684 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:03,684 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:05,525 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0342 - rate
+2016-06-19 11:01:06,754 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:07,981 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:09,211 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:10,440 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:11,462 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:12,694 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:13,921 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:15,149 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:16,379 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:17,608 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:18,837 INFO b.SimpleDemo [main] bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+2016-06-19 11:01:18,837 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:18,837 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:20,066 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.09404 - radio_frequency
+2016-06-19 11:01:21,292 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.13792 - infrared
+2016-06-19 11:01:22,525 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.10867 - wave_number
+2016-06-19 11:01:23,750 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.09788 - attendance
+2016-06-19 11:01:24,981 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.11757 - audio_frequency
+2016-06-19 11:01:26,068 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.10286 - count_per_minute
+2016-06-19 11:01:27,029 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.09961 - sampling_frequency
+2016-06-19 11:01:28,053 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.0 - airband
+2016-06-19 11:01:29,282 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.0 - infrasound
+2016-06-19 11:01:30,284 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.0 - bandwidth_(signal_processing)
+2016-06-19 11:01:31,534 INFO b.SimpleDemo [main] bn:00036471n	frequency - hyponym - 0.0 - Natural_frequency
+2016-06-19 11:01:31,534 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:31,534 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:31,535 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:31,535 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:31,536 INFO b.SimpleDemo [main] Current term having index(i) = 1 finished processing
+2016-06-19 11:01:31,536 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:01:31,537 INFO b.SimpleDemo [main] Extracting senses of term: locked
+2016-06-19 11:01:31,537 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:01:32,145 INFO b.SimpleDemo [main] Synset ID: bn:13761113a
+2016-06-19 11:01:33,581 INFO b.SimpleDemo [main] WIKT:EN:locked
+2016-06-19 11:01:33,581 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:33,581 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:34,192 INFO b.SimpleDemo [main] Synset ID: bn:13761112a
+2016-06-19 11:01:34,810 INFO b.SimpleDemo [main] WIKT:EN:locked
+2016-06-19 11:01:34,810 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:34,810 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:35,421 INFO b.SimpleDemo [main] Synset ID: bn:00723868n
+2016-06-19 11:01:36,038 INFO b.SimpleDemo [main] WIKI:EN:Mutha's_Day_Out
+2016-06-19 11:01:36,038 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:36,038 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:37,887 INFO b.SimpleDemo [main] bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - musical_group
+2016-06-19 11:01:39,125 INFO b.SimpleDemo [main] bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - band
+2016-06-19 11:01:40,048 INFO b.SimpleDemo [main] bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - rock_band
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - heavy_metal
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:41,163 INFO b.SimpleDemo [main] Current term having index(i) = 2 finished processing
+2016-06-19 11:01:41,164 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:01:41,164 INFO b.SimpleDemo [main] Extracting senses of term: panel
+2016-06-19 11:01:41,164 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:01:41,770 INFO b.SimpleDemo [main] Synset ID: bn:00011644n
+2016-06-19 11:01:42,389 INFO b.SimpleDemo [main] WN:EN:control_panel
+2016-06-19 11:01:42,390 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:42,390 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:43,821 INFO b.SimpleDemo [main] bn:00011644n	control_panel - hypernym - 0.06798 - electrical_device
+2016-06-19 11:01:43,821 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:43,821 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:45,051 INFO b.SimpleDemo [main] bn:00011644n	control_panel - hyponym - 0.27128 - dashboard
+2016-06-19 11:01:45,051 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:45,051 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:46,279 INFO b.SimpleDemo [main] bn:00011644n	control_panel - part_meronym - 0.36671 - idiot_light
+2016-06-19 11:01:46,280 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:46,280 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:46,280 INFO b.SimpleDemo [main] Synset ID: bn:00060379n
+2016-06-19 11:01:46,717 INFO b.SimpleDemo [main] WN:EN:panel
+2016-06-19 11:01:46,717 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:46,718 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:48,535 INFO b.SimpleDemo [main] bn:00060379n	panel - hypernym - 0.09549 - body
+2016-06-19 11:01:48,535 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:48,535 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:48,535 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:48,536 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:49,762 INFO b.SimpleDemo [main] bn:00060379n	panel - member_meronym - 0.22703 - panelist
+2016-06-19 11:01:49,762 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:49,762 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:49,762 INFO b.SimpleDemo [main] Synset ID: bn:01449225n
+2016-06-19 11:01:50,375 INFO b.SimpleDemo [main] WIKI:EN:panel_(comics)
+2016-06-19 11:01:50,375 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:50,375 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:52,221 INFO b.SimpleDemo [main] bn:01449225n	panel_(comics) - hypernym - 0.0 - drawing
+2016-06-19 11:01:52,221 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:52,222 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:52,222 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:52,222 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:52,222 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:52,222 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:52,222 INFO b.SimpleDemo [main] Synset ID: bn:00060378n
+2016-06-19 11:01:52,834 INFO b.SimpleDemo [main] WN:EN:panel
+2016-06-19 11:01:52,834 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:52,834 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:54,676 INFO b.SimpleDemo [main] bn:00060378n	panel - hypernym - 0.14706 - body
+2016-06-19 11:01:54,676 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:54,676 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:54,676 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:01:54,676 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:54,677 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:01:54,677 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:54,677 INFO b.SimpleDemo [main] Synset ID: bn:00060377n
+2016-06-19 11:01:55,290 INFO b.SimpleDemo [main] WN:EN:panel
+2016-06-19 11:01:55,290 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:01:55,291 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:56,928 INFO b.SimpleDemo [main] bn:00060377n	panel - hypernym - 0.07049 - sheet
+2016-06-19 11:01:56,929 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:01:56,929 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:01:58,157 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.10487 - dado
+2016-06-19 11:01:59,390 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.09555 - headboard
+2016-06-19 11:02:00,614 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.09953 - window
+2016-06-19 11:02:01,845 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.0788 - panelling
+2016-06-19 11:02:03,073 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.11078 - wainscotting
+2016-06-19 11:02:04,300 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.09555 - footboard
+2016-06-19 11:02:05,533 INFO b.SimpleDemo [main] bn:00060377n	panel - hyponym - 0.11078 - coffer
+2016-06-19 11:02:05,533 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:05,533 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:05,533 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:05,533 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:05,533 INFO b.SimpleDemo [main] Synset ID: bn:00048659n
+2016-06-19 11:02:06,144 INFO b.SimpleDemo [main] WN:EN:jury
+2016-06-19 11:02:06,144 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:06,144 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] bn:00048659n	jury - hypernym - 0.11636 - committee
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:07,986 INFO b.SimpleDemo [main] Synset ID: bn:00041130n
+2016-06-19 11:02:08,602 INFO b.SimpleDemo [main] WN:EN:panel
+2016-06-19 11:02:08,602 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:08,602 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] bn:00041130n	panel - hypernym - 0.06923 - piece_of_cloth
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:10,444 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:11,676 INFO b.SimpleDemo [main] bn:00041130n	panel - part_holonym - 0.1992 - gaiter
+2016-06-19 11:02:12,902 INFO b.SimpleDemo [main] bn:00041130n	panel - part_holonym - 0.21724 - full_skirt
+2016-06-19 11:02:14,134 INFO b.SimpleDemo [main] bn:00041130n	panel - part_holonym - 0.15053 - umbrella
+2016-06-19 11:02:14,135 INFO b.SimpleDemo [main] Synset ID: bn:00087570v
+2016-06-19 11:02:14,746 INFO b.SimpleDemo [main] WN:EN:empanel
+2016-06-19 11:02:14,746 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:14,747 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] bn:00087570v	empanel - hypernym - 0.09976 - choose
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:16,588 INFO b.SimpleDemo [main] Synset ID: bn:15542435n
+2016-06-19 11:02:17,203 INFO b.SimpleDemo [main] WIKIDATA:EN:panel
+2016-06-19 11:02:17,203 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:17,204 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:19,048 INFO b.SimpleDemo [main] bn:15542435n	panel - hypernym - 0.0 - plank
+2016-06-19 11:02:20,278 INFO b.SimpleDemo [main] bn:15542435n	panel - hypernym - 0.0 - demography
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] bn:15542435n	panel - hypernym - 0.0 - Plate_theory
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:21,505 INFO b.SimpleDemo [main] Synset ID: bn:00060380n
+2016-06-19 11:02:22,118 INFO b.SimpleDemo [main] WN:EN:panel
+2016-06-19 11:02:22,118 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:22,119 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] bn:00060380n	panel - hypernym - 0.83128 - pad
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:23,965 INFO b.SimpleDemo [main] Synset ID: bn:00091410v
+2016-06-19 11:02:24,576 INFO b.SimpleDemo [main] WN:EN:panel
+2016-06-19 11:02:24,576 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:24,576 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] bn:00091410v	panel - hypernym - 0.07142 - adorn
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:26,420 INFO b.SimpleDemo [main] Synset ID: bn:00026837n
+2016-06-19 11:02:27,036 INFO b.SimpleDemo [main] WN:EN:dialog_box
+2016-06-19 11:02:27,036 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:27,036 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:28,469 INFO b.SimpleDemo [main] bn:00026837n	dialog_box - hypernym - 0.0 - window
+2016-06-19 11:02:30,925 INFO b.SimpleDemo [main] bn:00026837n	dialog_box - hypernym - 0.24903 - window
+2016-06-19 11:02:32,166 INFO b.SimpleDemo [main] bn:00026837n	dialog_box - hypernym - 0.0 - gadget
+2016-06-19 11:02:32,167 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:32,167 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:33,383 INFO b.SimpleDemo [main] bn:00026837n	dialog_box - hyponym - 0.0 - alert_box
+2016-06-19 11:02:34,406 INFO b.SimpleDemo [main] bn:00026837n	dialog_box - hyponym - 0.0 - Confirmation_dialog_box
+2016-06-19 11:02:34,406 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:34,406 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:34,406 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:34,406 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:36,253 INFO b.SimpleDemo [main] bn:00026837n	dialog_box - part_holonym - 0.20375 - graphical_user_interface
+2016-06-19 11:02:36,253 INFO b.SimpleDemo [main] Current term having index(i) = 3 finished processing
+2016-06-19 11:02:36,253 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:02:36,253 INFO b.SimpleDemo [main] Extracting senses of term: norton
+2016-06-19 11:02:36,253 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:02:36,861 INFO b.SimpleDemo [main] Synset ID: bn:01026141n
+2016-06-19 11:02:37,478 INFO b.SimpleDemo [main] WIKI:EN:Norton_(surname)
+2016-06-19 11:02:37,478 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:37,478 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:38,091 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:38,091 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:38,091 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:38,091 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:38,091 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:38,091 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:38,092 INFO b.SimpleDemo [main] Synset ID: bn:03805731n
+2016-06-19 11:02:40,141 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Virginia
+2016-06-19 11:02:40,141 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:40,141 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:42,399 INFO b.SimpleDemo [main] bn:03805731n	Norton,_Virginia - hypernym - 0.0 - City
+2016-06-19 11:02:43,625 INFO b.SimpleDemo [main] bn:03805731n	Norton,_Virginia - hypernym - 0.0 - City
+2016-06-19 11:02:44,442 INFO b.SimpleDemo [main] bn:03805731n	Norton,_Virginia - hypernym - 0.0 - Independent_city_(United_States)
+2016-06-19 11:02:44,442 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:44,442 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:44,442 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:44,442 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:44,443 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:44,443 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:44,443 INFO b.SimpleDemo [main] Synset ID: bn:02127500n
+2016-06-19 11:02:45,056 INFO b.SimpleDemo [main] WIKIDATA:EN:Norton
+2016-06-19 11:02:45,056 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:45,056 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:46,490 INFO b.SimpleDemo [main] bn:02127500n	Norton - hypernym - 0.0 - suburb
+2016-06-19 11:02:47,720 INFO b.SimpleDemo [main] bn:02127500n	Norton - hypernym - 0.0 - area
+2016-06-19 11:02:47,720 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:47,720 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:47,720 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:47,720 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:47,721 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:47,721 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:47,721 INFO b.SimpleDemo [main] Synset ID: bn:03553983n
+2016-06-19 11:02:48,333 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Doncaster
+2016-06-19 11:02:48,333 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:48,333 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:49,974 INFO b.SimpleDemo [main] bn:03553983n	Norton,_Doncaster - hypernym - 0.0 - village
+2016-06-19 11:02:51,202 INFO b.SimpleDemo [main] bn:03553983n	Norton,_Doncaster - hypernym - 0.0 - village
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] bn:03553983n	Norton,_Doncaster - hypernym - 0.0 - civil_parish
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:52,430 INFO b.SimpleDemo [main] Synset ID: bn:00725873n
+2016-06-19 11:02:53,044 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Ohio
+2016-06-19 11:02:53,044 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:53,044 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:54,890 INFO b.SimpleDemo [main] bn:00725873n	Norton,_Ohio - hypernym - 0.0 - City
+2016-06-19 11:02:56,121 INFO b.SimpleDemo [main] bn:00725873n	Norton,_Ohio - hypernym - 0.0 - City
+2016-06-19 11:02:56,121 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:02:56,121 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:56,121 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:02:56,121 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:56,121 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:02:56,122 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:56,122 INFO b.SimpleDemo [main] Synset ID: bn:00276606n
+2016-06-19 11:02:56,730 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Kansas
+2016-06-19 11:02:56,730 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:02:56,730 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:02:58,575 INFO b.SimpleDemo [main] bn:00276606n	Norton,_Kansas - hypernym - 0.0 - City
+2016-06-19 11:02:59,808 INFO b.SimpleDemo [main] bn:00276606n	Norton,_Kansas - hypernym - 0.0 - City
+2016-06-19 11:03:01,031 INFO b.SimpleDemo [main] bn:00276606n	Norton,_Kansas - hypernym - 0.0 - county_seat
+2016-06-19 11:03:01,031 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:01,031 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:01,032 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:01,032 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:01,032 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:01,032 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:01,032 INFO b.SimpleDemo [main] Synset ID: bn:03062819n
+2016-06-19 11:03:01,645 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Zimbabwe
+2016-06-19 11:03:01,645 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:01,645 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:03,490 INFO b.SimpleDemo [main] bn:03062819n	Norton,_Zimbabwe - hypernym - 0.0 - settlement
+2016-06-19 11:03:04,718 INFO b.SimpleDemo [main] bn:03062819n	Norton,_Zimbabwe - hypernym - 0.0 - town
+2016-06-19 11:03:04,718 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:04,718 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:04,718 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:04,718 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:04,718 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:04,719 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:04,719 INFO b.SimpleDemo [main] Synset ID: bn:01508597n
+2016-06-19 11:03:05,333 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Massachusetts
+2016-06-19 11:03:05,333 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:05,333 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:07,174 INFO b.SimpleDemo [main] bn:01508597n	Norton,_Massachusetts - hypernym - 0.0 - New_England_town
+2016-06-19 11:03:07,174 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:07,174 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:07,175 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:07,175 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:07,175 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:07,175 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:07,175 INFO b.SimpleDemo [main] Synset ID: bn:16072611n
+2016-06-19 11:03:07,790 INFO b.SimpleDemo [main] WIKI:EN:Norton_(given_name)
+2016-06-19 11:03:07,790 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:07,790 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] bn:16072611n	Norton_(given_name) - hypernym - 0.0 - given_name
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:09,638 INFO b.SimpleDemo [main] Synset ID: bn:00576764n
+2016-06-19 11:03:10,249 INFO b.SimpleDemo [main] WIKI:EN:Norton,_Vermont
+2016-06-19 11:03:10,249 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:10,249 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:12,090 INFO b.SimpleDemo [main] bn:00576764n	Norton,_Vermont - hypernym - 0.0 - New_England_town
+2016-06-19 11:03:13,159 INFO b.SimpleDemo [main] bn:00576764n	Norton,_Vermont - hypernym - 0.0 - New_England_town
+2016-06-19 11:03:13,159 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:13,159 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:13,159 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:13,159 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:13,159 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:13,160 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:13,160 INFO b.SimpleDemo [main] Synset ID: bn:02790120n
+2016-06-19 11:03:13,729 INFO b.SimpleDemo [main] WIKI:EN:Norton_Motorcycle_Company
+2016-06-19 11:03:13,729 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:13,729 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:15,573 INFO b.SimpleDemo [main] bn:02790120n	Norton_Motorcycle_Company - hypernym - 0.0 - company
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] bn:02790120n	Norton_Motorcycle_Company - hypernym - 0.0 - brand
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:16,802 INFO b.SimpleDemo [main] Synset ID: bn:00616338n
+2016-06-19 11:03:17,414 INFO b.SimpleDemo [main] WIKI:EN:Norton_(grape)
+2016-06-19 11:03:17,414 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:17,414 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:19,098 INFO b.SimpleDemo [main] bn:00616338n	Norton_(grape) - hypernym - 0.0 - varietal
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] bn:00616338n	Norton_(grape) - hypernym - 0.0 - variety
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:20,281 INFO b.SimpleDemo [main] Synset ID: bn:03690484n
+2016-06-19 11:03:20,896 INFO b.SimpleDemo [main] WIKI:EN:McGear
+2016-06-19 11:03:20,896 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:20,896 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:22,741 INFO b.SimpleDemo [main] bn:03690484n	McGear - hypernym - 0.0 - album
+2016-06-19 11:03:23,971 INFO b.SimpleDemo [main] bn:03690484n	McGear - type - 0.0 - album
+2016-06-19 11:03:25,199 INFO b.SimpleDemo [main] bn:03690484n	McGear - hypernym - 0.0 - album
+2016-06-19 11:03:25,199 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:25,199 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:25,200 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:25,200 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:25,200 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:25,200 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:25,200 INFO b.SimpleDemo [main] Synset ID: bn:14851210n
+2016-06-19 11:03:25,812 INFO b.SimpleDemo [main] WIKI:EN:Norton_(1745_cricketer)
+2016-06-19 11:03:25,812 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:25,812 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:27,553 INFO b.SimpleDemo [main] bn:14851210n	Norton_(1745_cricketer) - hypernym - 0.0 - human
+2016-06-19 11:03:27,553 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] Current term having index(i) = 4 finished processing
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-19 11:03:27,554 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:03:28,061 INFO b.SimpleDemo [main] Current term having index(i) = 5 finished processing
+2016-06-19 11:03:28,062 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:03:28,062 INFO b.SimpleDemo [main] Extracting senses of term: investec
+2016-06-19 11:03:28,062 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:03:28,675 INFO b.SimpleDemo [main] Synset ID: bn:17001255n
+2016-06-19 11:03:29,293 INFO b.SimpleDemo [main] WIKI:EN:Investec
+2016-06-19 11:03:29,293 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:29,293 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:31,138 INFO b.SimpleDemo [main] bn:17001255n	Investec - hypernym - 0.0 - Public_company
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] bn:17001255n	Investec - hypernym - 0.0 - banking
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:32,365 INFO b.SimpleDemo [main] Current term having index(i) = 6 finished processing
+2016-06-19 11:03:32,366 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:03:32,366 INFO b.SimpleDemo [main] Extracting senses of term: disappointed
+2016-06-19 11:03:32,366 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:03:32,976 INFO b.SimpleDemo [main] Synset ID: bn:13826898n
+2016-06-19 11:03:33,593 INFO b.SimpleDemo [main] WIKI:EN:9_(Public_Image_Ltd_album)
+2016-06-19 11:03:33,593 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:33,593 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:35,849 INFO b.SimpleDemo [main] bn:13826898n	9_(Public_Image_Ltd_album) - hypernym - 0.0 - album
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] bn:13826898n	9_(Public_Image_Ltd_album) - hypernym - 0.0 - album
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:37,640 INFO b.SimpleDemo [main] Synset ID: bn:00101070a
+2016-06-19 11:03:38,304 INFO b.SimpleDemo [main] WN:EN:defeated
+2016-06-19 11:03:38,304 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:38,305 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:39,415 INFO b.SimpleDemo [main] Synset ID: bn:00027430n
+2016-06-19 11:03:39,943 INFO b.SimpleDemo [main] WN:EN:disappointment
+2016-06-19 11:03:39,943 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:39,943 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:41,785 INFO b.SimpleDemo [main] bn:00027430n	disappointment - hypernym - 0.17782 - dissatisfaction
+2016-06-19 11:03:43,014 INFO b.SimpleDemo [main] bn:00027430n	disappointment - hypernym - 0.0 - feeling
+2016-06-19 11:03:43,014 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:43,014 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:44,244 INFO b.SimpleDemo [main] bn:00027430n	disappointment - hyponym - 0.24894 - frustration
+2016-06-19 11:03:44,244 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:44,244 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:45,472 INFO b.SimpleDemo [main] bn:00027430n	disappointment - part_meronym - 0.0 - theory_of_emotion
+2016-06-19 11:03:45,472 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:45,472 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:45,472 INFO b.SimpleDemo [main] Synset ID: bn:03492983n
+2016-06-19 11:03:46,087 INFO b.SimpleDemo [main] WIKI:EN:Disappointed
+2016-06-19 11:03:46,087 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:46,087 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:47,930 INFO b.SimpleDemo [main] bn:03492983n	Disappointed - hypernym - 0.0 - single_(music)
+2016-06-19 11:03:49,159 INFO b.SimpleDemo [main] bn:03492983n	Disappointed - hypernym - 0.0 - Electronic_(band)
+2016-06-19 11:03:49,159 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:49,159 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:49,159 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:49,159 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:49,160 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:49,160 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:49,160 INFO b.SimpleDemo [main] Current term having index(i) = 7 finished processing
+2016-06-19 11:03:49,160 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:03:49,160 INFO b.SimpleDemo [main] Extracting senses of term: showcase
+2016-06-19 11:03:49,160 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:03:49,770 INFO b.SimpleDemo [main] Synset ID: bn:00071322n
+2016-06-19 11:03:50,387 INFO b.SimpleDemo [main] WN:EN:show_window
+2016-06-19 11:03:50,387 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:50,387 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:52,230 INFO b.SimpleDemo [main] bn:00071322n	show_window - hypernym - 0.96471 - background
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:52,231 INFO b.SimpleDemo [main] Synset ID: bn:02576356n
+2016-06-19 11:03:52,845 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(Australian_TV_channel)
+2016-06-19 11:03:52,845 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:52,845 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:54,690 INFO b.SimpleDemo [main] bn:02576356n	Showcase_(Australian_TV_channel) - hypernym - 0.0 - cable
+2016-06-19 11:03:55,918 INFO b.SimpleDemo [main] bn:02576356n	Showcase_(Australian_TV_channel) - hypernym - 0.0 - channel
+2016-06-19 11:03:55,918 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:55,918 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:55,919 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:55,919 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:55,919 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:55,919 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:55,919 INFO b.SimpleDemo [main] Synset ID: bn:15990853n
+2016-06-19 11:03:56,531 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(Philly_Joe_Jones_album)
+2016-06-19 11:03:56,531 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:56,531 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:58,238 INFO b.SimpleDemo [main] bn:15990853n	Showcase_(Philly_Joe_Jones_album) - hypernym - 0.0 - album
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:03:58,239 INFO b.SimpleDemo [main] Synset ID: bn:00016420n
+2016-06-19 11:03:58,795 INFO b.SimpleDemo [main] WN:EN:case
+2016-06-19 11:03:58,795 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:03:58,795 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:00,629 INFO b.SimpleDemo [main] bn:00016420n	case - hypernym - 0.07654 - container
+2016-06-19 11:04:01,853 INFO b.SimpleDemo [main] bn:00016420n	case - subclass_of - 0.0 - furniture
+2016-06-19 11:04:03,086 INFO b.SimpleDemo [main] bn:00016420n	case - hypernym - 0.0 - locker
+2016-06-19 11:04:04,227 INFO b.SimpleDemo [main] bn:00016420n	case - subclass_of - 0.0 - furniture
+2016-06-19 11:04:04,227 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:04,227 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:05,543 INFO b.SimpleDemo [main] bn:00016420n	case - hyponym - 0.35719 - trophy_case
+2016-06-19 11:04:05,543 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:05,543 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:05,543 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:05,543 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:05,543 INFO b.SimpleDemo [main] Synset ID: bn:00769995n
+2016-06-19 11:04:06,157 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(comics)
+2016-06-19 11:04:06,157 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:06,157 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:08,002 INFO b.SimpleDemo [main] bn:00769995n	Showcase_(comics) - hypernym - 0.0 - title
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:08,003 INFO b.SimpleDemo [main] Synset ID: bn:03067067n
+2016-06-19 11:04:08,617 INFO b.SimpleDemo [main] WIKI:EN:The_Price_Is_Right_(U.S._game_show)
+2016-06-19 11:04:08,617 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:08,617 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:10,458 INFO b.SimpleDemo [main] bn:03067067n	The_Price_Is_Right_(U.S._game_show) - hypernym - 0.0 - game_show
+2016-06-19 11:04:12,505 INFO b.SimpleDemo [main] bn:03067067n	The_Price_Is_Right_(U.S._game_show) - hypernym - 0.0 - game_show
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:12,506 INFO b.SimpleDemo [main] Synset ID: bn:13615617v
+2016-06-19 11:04:13,120 INFO b.SimpleDemo [main] WIKT:EN:showcase
+2016-06-19 11:04:13,120 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:13,120 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:13,730 INFO b.SimpleDemo [main] Synset ID: bn:14237903n
+2016-06-19 11:04:14,348 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(The_Sylvers_album)
+2016-06-19 11:04:14,349 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:14,349 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] bn:14237903n	Showcase_(The_Sylvers_album) - hypernym - 0.0 - album
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:16,195 INFO b.SimpleDemo [main] Synset ID: bn:01537885n
+2016-06-19 11:04:16,804 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(Canadian_TV_channel)
+2016-06-19 11:04:16,804 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:16,805 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:18,649 INFO b.SimpleDemo [main] bn:01537885n	Showcase_(Canadian_TV_channel) - hypernym - 0.0 - television_station
+2016-06-19 11:04:19,879 INFO b.SimpleDemo [main] bn:01537885n	Showcase_(Canadian_TV_channel) - hypernym - 0.0 - channel
+2016-06-19 11:04:19,879 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:19,880 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:19,880 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:19,880 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:19,880 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:19,880 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:19,880 INFO b.SimpleDemo [main] Synset ID: bn:14467297n
+2016-06-19 11:04:20,494 INFO b.SimpleDemo [main] WIKI:EN:Showtime_(TV_network)
+2016-06-19 11:04:20,495 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:20,495 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:22,337 INFO b.SimpleDemo [main] bn:14467297n	Showtime_(TV_network) - hypernym - 0.0 - Pay_television
+2016-06-19 11:04:23,564 INFO b.SimpleDemo [main] bn:14467297n	Showtime_(TV_network) - hypernym - 0.0 - Cable_channel
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] bn:14467297n	Showtime_(TV_network) - hypernym - 0.0 - film_production_company
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:24,794 INFO b.SimpleDemo [main] Synset ID: bn:00274748n
+2016-06-19 11:04:25,408 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(Firefox_extension)
+2016-06-19 11:04:25,408 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:25,408 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:27,252 INFO b.SimpleDemo [main] bn:00274748n	Showcase_(Firefox_extension) - hypernym - 0.0 - Add-on_(Mozilla)
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:27,253 INFO b.SimpleDemo [main] Synset ID: bn:01507048n
+2016-06-19 11:04:27,865 INFO b.SimpleDemo [main] WIKI:EN:Showcase_(retailer)
+2016-06-19 11:04:27,865 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:27,865 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] Current term having index(i) = 8 finished processing
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] Extracting senses of term: gamble
+2016-06-19 11:04:28,478 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:04:29,092 INFO b.SimpleDemo [main] Synset ID: bn:00088669v
+2016-06-19 11:04:29,709 INFO b.SimpleDemo [main] WN:EN:gamble
+2016-06-19 11:04:29,709 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:29,709 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:31,550 INFO b.SimpleDemo [main] bn:00088669v	gamble - hypernym - 0.02369 - play
+2016-06-19 11:04:31,550 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:31,550 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:32,780 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.10283 - shoot_craps
+2016-06-19 11:04:34,009 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.18331 - bet
+2016-06-19 11:04:35,237 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.06274 - dice
+2016-06-19 11:04:36,467 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.18284 - play
+2016-06-19 11:04:36,467 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:36,467 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:36,467 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:36,467 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:36,467 INFO b.SimpleDemo [main] Synset ID: bn:00023569n
+2016-06-19 11:04:37,082 INFO b.SimpleDemo [main] WN:EN:crapshoot
+2016-06-19 11:04:37,082 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:37,082 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] bn:00023569n	crapshoot - hypernym - 0.30452 - risk
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:38,925 INFO b.SimpleDemo [main] Synset ID: bn:00037165n
+2016-06-19 11:04:39,541 INFO b.SimpleDemo [main] WN:EN:gamble
+2016-06-19 11:04:39,541 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:39,541 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:41,384 INFO b.SimpleDemo [main] bn:00037165n	gamble - hypernym - 0.2408 - speculation
+2016-06-19 11:04:41,384 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:41,384 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:43,022 INFO b.SimpleDemo [main] bn:00037165n	gamble - hyponym - 0.21886 - bet
+2016-06-19 11:04:43,022 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:43,022 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:43,023 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:43,023 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:43,023 INFO b.SimpleDemo [main] Synset ID: bn:00037166n
+2016-06-19 11:04:43,497 INFO b.SimpleDemo [main] WN:EN:gamble
+2016-06-19 11:04:43,497 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:43,497 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:45,274 INFO b.SimpleDemo [main] bn:00037166n	gamble - hypernym - 0.21697 - risk
+2016-06-19 11:04:45,274 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:45,274 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:46,503 INFO b.SimpleDemo [main] bn:00037166n	gamble - hyponym - 0.12769 - raise
+2016-06-19 11:04:47,731 INFO b.SimpleDemo [main] bn:00037166n	gamble - hyponym - 0.19725 - long_shot
+2016-06-19 11:04:47,731 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:47,731 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:47,731 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:47,731 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:47,731 INFO b.SimpleDemo [main] Synset ID: bn:15751072n
+2016-06-19 11:04:48,345 INFO b.SimpleDemo [main] WIKI:EN:Gamble_(surname)
+2016-06-19 11:04:48,345 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:48,346 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:48,958 INFO b.SimpleDemo [main] Synset ID: bn:00082408v
+2016-06-19 11:04:49,417 INFO b.SimpleDemo [main] WN:EN:gamble
+2016-06-19 11:04:49,417 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:49,417 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:51,214 INFO b.SimpleDemo [main] bn:00082408v	gamble - hypernym - 0.06222 - attempt
+2016-06-19 11:04:51,214 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:51,214 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:52,441 INFO b.SimpleDemo [main] bn:00082408v	gamble - hyponym - 0.08128 - luck_it
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] bn:00082408v	gamble - hyponym - 0.06868 - go_for_broke
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] Current term having index(i) = 9 finished processing
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] Extracting senses of term: lima
+2016-06-19 11:04:53,670 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:04:54,284 INFO b.SimpleDemo [main] Synset ID: bn:02101058n
+2016-06-19 11:04:54,899 INFO b.SimpleDemo [main] WIKI:EN:Indigitamenta
+2016-06-19 11:04:54,899 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:54,899 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] bn:02101058n	Indigitamenta - hypernym - 0.0 - deity
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:56,746 INFO b.SimpleDemo [main] Synset ID: bn:16970020n
+2016-06-19 11:04:57,357 INFO b.SimpleDemo [main] WIKI:EN:Lima_(restaurant)
+2016-06-19 11:04:57,357 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:57,358 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] bn:16970020n	Lima_(restaurant) - hypernym - 0.0 - restaurant
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:04:59,203 INFO b.SimpleDemo [main] Synset ID: bn:00520739n
+2016-06-19 11:04:59,815 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Pennsylvania
+2016-06-19 11:04:59,815 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:04:59,815 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:01,658 INFO b.SimpleDemo [main] bn:00520739n	Lima,_Pennsylvania - hypernym - 0.0 - Census-designated_place
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] bn:00520739n	Lima,_Pennsylvania - hypernym - 0.0 - Census-designated_place
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:02,887 INFO b.SimpleDemo [main] Synset ID: bn:10928281n
+2016-06-19 11:05:03,501 INFO b.SimpleDemo [main] WIKIDATA:EN:Lima
+2016-06-19 11:05:03,501 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:03,501 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] bn:10928281n	Lima - hypernym - 0.0 - human
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:05,351 INFO b.SimpleDemo [main] Synset ID: bn:01101428n
+2016-06-19 11:05:05,958 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Paraguay
+2016-06-19 11:05:05,958 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:05,958 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:07,802 INFO b.SimpleDemo [main] bn:01101428n	Lima,_Paraguay - hypernym - 0.0 - Geographical_feature
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] bn:01101428n	Lima,_Paraguay - hypernym - 0.0 - town
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:08,899 INFO b.SimpleDemo [main] Synset ID: bn:00596030n
+2016-06-19 11:05:09,441 INFO b.SimpleDemo [main] WIKIDATA:EN:Lima
+2016-06-19 11:05:09,441 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:09,441 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:11,282 INFO b.SimpleDemo [main] bn:00596030n	Lima - hypernym - 0.0 - Administrative_divisions_of_Wisconsin
+2016-06-19 11:05:11,282 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:11,282 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:11,283 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:11,283 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:11,283 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:11,283 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:11,283 INFO b.SimpleDemo [main] Synset ID: bn:14422488n
+2016-06-19 11:05:11,898 INFO b.SimpleDemo [main] WIKI:EN:Lima_(Buenos_Aires_Underground)
+2016-06-19 11:05:11,898 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:11,898 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:13,741 INFO b.SimpleDemo [main] bn:14422488n	Lima_(Buenos_Aires_Underground) - hypernym - 0.0 - metro_station
+2016-06-19 11:05:14,971 INFO b.SimpleDemo [main] bn:14422488n	Lima_(Buenos_Aires_Underground) - hypernym - 0.0 - metro_station
+2016-06-19 11:05:14,971 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:14,971 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:14,971 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:14,971 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:16,201 INFO b.SimpleDemo [main] bn:14422488n	Lima_(Buenos_Aires_Underground) - part_meronym - 0.0 - Buenos_Aires_Underground
+2016-06-19 11:05:16,201 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:16,201 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:16,201 INFO b.SimpleDemo [main] Synset ID: bn:02009718n
+2016-06-19 11:05:16,813 INFO b.SimpleDemo [main] WIKI:EN:Lima_(Milan_Metro)
+2016-06-19 11:05:16,813 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:16,813 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:18,657 INFO b.SimpleDemo [main] bn:02009718n	Lima_(Milan_Metro) - hypernym - 0.0 - metro_station
+2016-06-19 11:05:19,885 INFO b.SimpleDemo [main] bn:02009718n	Lima_(Milan_Metro) - hypernym - 0.0 - metro_station
+2016-06-19 11:05:19,886 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:19,886 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:19,886 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:19,886 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:21,115 INFO b.SimpleDemo [main] bn:02009718n	Lima_(Milan_Metro) - part_meronym - 0.0 - Milan_Metro
+2016-06-19 11:05:21,115 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:21,115 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:21,115 INFO b.SimpleDemo [main] Synset ID: bn:00600828n
+2016-06-19 11:05:21,728 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Pepin_County,_Wisconsin
+2016-06-19 11:05:21,728 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:21,728 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:23,575 INFO b.SimpleDemo [main] bn:00600828n	Lima,_Pepin_County,_Wisconsin - hypernym - 0.0 - village
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] bn:00600828n	Lima,_Pepin_County,_Wisconsin - hypernym - 0.0 - town
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:24,802 INFO b.SimpleDemo [main] Synset ID: bn:01550105n
+2016-06-19 11:05:25,419 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Sweden
+2016-06-19 11:05:25,419 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:25,419 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:27,258 INFO b.SimpleDemo [main] bn:01550105n	Lima,_Sweden - hypernym - 0.0 - urban_area_of_Sweden
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] bn:01550105n	Lima,_Sweden - hypernym - 0.0 - Sweden
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:28,881 INFO b.SimpleDemo [main] Synset ID: bn:15695481n
+2016-06-19 11:05:29,511 INFO b.SimpleDemo [main] WIKI:EN:Lima_(footballer)
+2016-06-19 11:05:29,511 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:29,511 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:31,358 INFO b.SimpleDemo [main] bn:15695481n	Lima_(footballer) - hypernym - 0.0 - human
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] bn:15695481n	Lima_(footballer) - hypernym - 0.0 - association_football
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:32,594 INFO b.SimpleDemo [main] Synset ID: bn:00015604n
+2016-06-19 11:05:33,201 INFO b.SimpleDemo [main] WN:EN:Lima
+2016-06-19 11:05:33,201 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:05:33,201 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:05:36,884 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.02506 - national_capital
+2016-06-19 11:05:38,113 INFO b.SimpleDemo [main] bn:00015604n	Lima - instance_hypernym - 0.02506 - national_capital
+2016-06-19 11:05:39,959 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:42,014 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:43,027 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - city_with_millions_of_inhabitants
+2016-06-19 11:05:44,259 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:45,491 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:46,718 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:48,560 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:49,790 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:51,020 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:52,249 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:53,475 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:54,509 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - City
+2016-06-19 11:05:55,728 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - capital
+2016-06-19 11:05:56,957 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - provincial_capital
+2016-06-19 11:05:57,981 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - provincial_capital
+2016-06-19 11:05:59,209 INFO b.SimpleDemo [main] bn:00015604n	Lima - hypernym - 0.0 - World's_largest_cities
+2016-06-19 11:05:59,209 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:05:59,209 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:00,436 INFO b.SimpleDemo [main] bn:00015604n	Lima - hyponym - 0.0 - History_of_Lima
+2016-06-19 11:06:00,436 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:00,436 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:00,436 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:00,436 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:02,282 INFO b.SimpleDemo [main] bn:00015604n	Lima - part_holonym - 0.19134 - Peru
+2016-06-19 11:06:02,282 INFO b.SimpleDemo [main] Synset ID: bn:01644158n
+2016-06-19 11:06:02,894 INFO b.SimpleDemo [main] WIKI:EN:Internal_thoracic_artery
+2016-06-19 11:06:02,894 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:02,894 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:04,738 INFO b.SimpleDemo [main] bn:01644158n	Internal_thoracic_artery - hypernym - 0.0 - artery
+2016-06-19 11:06:04,738 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:04,738 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:05,965 INFO b.SimpleDemo [main] bn:01644158n	Internal_thoracic_artery - hyponym - 0.0 - Pericardiacophrenic_artery
+2016-06-19 11:06:05,966 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:05,966 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:05,966 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:05,966 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:05,966 INFO b.SimpleDemo [main] Synset ID: bn:00384262n
+2016-06-19 11:06:06,580 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Montana
+2016-06-19 11:06:06,580 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:06,580 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] bn:00384262n	Lima,_Montana - hypernym - 0.0 - town
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:08,425 INFO b.SimpleDemo [main] Synset ID: bn:00229574n
+2016-06-19 11:06:09,037 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Illinois
+2016-06-19 11:06:09,037 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:09,037 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:10,881 INFO b.SimpleDemo [main] bn:00229574n	Lima,_Illinois - hypernym - 0.0 - Village_(United_States)
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] bn:00229574n	Lima,_Illinois - hypernym - 0.0 - village
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:12,117 INFO b.SimpleDemo [main] Synset ID: bn:03580038n
+2016-06-19 11:06:12,724 INFO b.SimpleDemo [main] WIKI:EN:Lima_Region
+2016-06-19 11:06:12,724 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:12,724 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:14,397 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_Peru
+2016-06-19 11:06:15,796 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_Peru
+2016-06-19 11:06:17,025 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_Peru
+2016-06-19 11:06:18,254 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_Peru
+2016-06-19 11:06:19,483 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_Peru
+2016-06-19 11:06:20,712 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_Peru
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] bn:03580038n	Lima_Region - hypernym - 0.0 - region_of_France
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:21,942 INFO b.SimpleDemo [main] Synset ID: bn:02094297n
+2016-06-19 11:06:24,193 INFO b.SimpleDemo [main] WIKI:EN:Lima_Pennsylvania_Railroad_Passenger_Depot
+2016-06-19 11:06:24,193 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:24,193 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:26,449 INFO b.SimpleDemo [main] bn:02094297n	Lima_Pennsylvania_Railroad_Passenger_Depot - hypernym - 0.0 - railway_station
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] bn:02094297n	Lima_Pennsylvania_Railroad_Passenger_Depot - hypernym - 0.0 - railway_station
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:27,680 INFO b.SimpleDemo [main] Synset ID: bn:02787539n
+2016-06-19 11:06:28,289 INFO b.SimpleDemo [main] WIKI:EN:Lima_(models)
+2016-06-19 11:06:28,289 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:28,289 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:30,133 INFO b.SimpleDemo [main] bn:02787539n	Lima_(models) - hypernym - 0.0 - company
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] bn:02787539n	Lima_(models) - hypernym - 0.0 - brand
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:31,365 INFO b.SimpleDemo [main] Synset ID: bn:00472095n
+2016-06-19 11:06:31,976 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Ohio
+2016-06-19 11:06:31,976 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:31,976 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:33,818 INFO b.SimpleDemo [main] bn:00472095n	Lima,_Ohio - hypernym - 0.0 - City
+2016-06-19 11:06:35,471 INFO b.SimpleDemo [main] bn:00472095n	Lima,_Ohio - hypernym - 0.0 - City
+2016-06-19 11:06:36,687 INFO b.SimpleDemo [main] bn:00472095n	Lima,_Ohio - hypernym - 0.0 - county_seat
+2016-06-19 11:06:37,915 INFO b.SimpleDemo [main] bn:00472095n	Lima,_Ohio - hypernym - 0.0 - county_seat
+2016-06-19 11:06:37,915 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:37,915 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:37,916 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:37,916 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:37,916 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:37,916 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:37,916 INFO b.SimpleDemo [main] Synset ID: bn:01953014n
+2016-06-19 11:06:38,529 INFO b.SimpleDemo [main] WIKIDATA:EN:Lima
+2016-06-19 11:06:38,529 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:38,529 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:40,375 INFO b.SimpleDemo [main] bn:01953014n	Lima - hypernym - 0.0 - village
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] bn:01953014n	Lima - hypernym - 0.0 - village
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:41,603 INFO b.SimpleDemo [main] Synset ID: bn:00496472n
+2016-06-19 11:06:42,215 INFO b.SimpleDemo [main] WIKI:EN:Lima,_Oklahoma
+2016-06-19 11:06:42,215 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:42,215 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] bn:00496472n	Lima,_Oklahoma - hypernym - 0.0 - town
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:44,060 INFO b.SimpleDemo [main] Synset ID: bn:02666070n
+2016-06-19 11:06:44,673 INFO b.SimpleDemo [main] WIKIDATA:EN:Lima
+2016-06-19 11:06:44,673 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:44,673 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] bn:02666070n	Lima - hypernym - 0.0 - Unincorporated_area
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:46,522 INFO b.SimpleDemo [main] Synset ID: bn:16201126n
+2016-06-19 11:06:47,130 INFO b.SimpleDemo [main] WIKIDATA:EN:Lima
+2016-06-19 11:06:47,130 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:47,130 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:50,614 INFO b.SimpleDemo [main] bn:16201126n	Lima - hypernym - 0.0 - river
+2016-06-19 11:06:52,254 INFO b.SimpleDemo [main] bn:16201126n	Lima - hypernym - 0.0 - river
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] bn:16201126n	Lima - hypernym - 0.0 - river
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:53,483 INFO b.SimpleDemo [main] Synset ID: bn:00837748n
+2016-06-19 11:06:54,094 INFO b.SimpleDemo [main] WIKIDATA:EN:Lima
+2016-06-19 11:06:54,094 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:54,094 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:56,550 INFO b.SimpleDemo [main] bn:00837748n	Lima - hypernym - 0.0 - district_of_Peru
+2016-06-19 11:06:57,780 INFO b.SimpleDemo [main] bn:00837748n	Lima - hypernym - 0.0 - district_of_Peru
+2016-06-19 11:06:57,780 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:06:57,780 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:57,780 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:06:57,780 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:57,781 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:06:57,781 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:06:57,781 INFO b.SimpleDemo [main] Synset ID: bn:03591826n
+2016-06-19 11:06:58,392 INFO b.SimpleDemo [main] WIKI:EN:Lima_(surname)
+2016-06-19 11:06:58,393 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:06:58,393 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] bn:03591826n	Lima_(surname) - hypernym - 0.0 - last_name
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:00,034 INFO b.SimpleDemo [main] Synset ID: bn:00584877n
+2016-06-19 11:07:00,646 INFO b.SimpleDemo [main] WIKI:EN:Lima_(genus)
+2016-06-19 11:07:00,646 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:00,646 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] bn:00584877n	Lima_(genus) - hypernym - 0.0 - taxon
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] Current term having index(i) = 10 finished processing
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] Extracting senses of term: press
+2016-06-19 11:07:02,490 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-19 11:07:03,101 INFO b.SimpleDemo [main] Synset ID: bn:00091988v
+2016-06-19 11:07:03,717 INFO b.SimpleDemo [main] WN:EN:press
+2016-06-19 11:07:03,717 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:03,718 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:05,561 INFO b.SimpleDemo [main] bn:00091988v	press - hypernym - 0.18864 - flatten
+2016-06-19 11:07:05,561 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:05,561 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:06,789 INFO b.SimpleDemo [main] bn:00091988v	press - hyponym - 0.27947 - calender
+2016-06-19 11:07:08,018 INFO b.SimpleDemo [main] bn:00091988v	press - hyponym - 0.18083 - iron
+2016-06-19 11:07:08,019 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:08,019 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:08,019 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:08,019 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:08,019 INFO b.SimpleDemo [main] Synset ID: bn:00064248n
+2016-06-19 11:07:08,633 INFO b.SimpleDemo [main] WN:EN:pressing
+2016-06-19 11:07:08,633 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:08,633 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:10,476 INFO b.SimpleDemo [main] bn:00064248n	pressing - hypernym - 0.15393 - push
+2016-06-19 11:07:10,476 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:10,476 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:11,704 INFO b.SimpleDemo [main] bn:00064248n	pressing - hyponym - 0.1207 - compressing
+2016-06-19 11:07:12,933 INFO b.SimpleDemo [main] bn:00064248n	pressing - hyponym - 0.10499 - impression
+2016-06-19 11:07:12,934 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:12,934 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:12,934 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:12,934 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:12,934 INFO b.SimpleDemo [main] Synset ID: bn:00064246n
+2016-06-19 11:07:13,548 INFO b.SimpleDemo [main] WN:EN:press
+2016-06-19 11:07:13,548 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:13,548 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:15,390 INFO b.SimpleDemo [main] bn:00064246n	press - hypernym - 0.08161 - machine
+2016-06-19 11:07:15,390 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:15,390 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:16,621 INFO b.SimpleDemo [main] bn:00064246n	press - hyponym - 0.16972 - rotary_press
+2016-06-19 11:07:17,851 INFO b.SimpleDemo [main] bn:00064246n	press - hyponym - 0.26402 - cylinder_press
+2016-06-19 11:07:19,077 INFO b.SimpleDemo [main] bn:00064246n	press - hyponym - 0.15667 - standing_press
+2016-06-19 11:07:19,078 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:19,078 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:20,306 INFO b.SimpleDemo [main] bn:00064246n	press - part_meronym - 0.24637 - bed
+2016-06-19 11:07:20,306 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:20,306 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:20,306 INFO b.SimpleDemo [main] Synset ID: bn:00024144n
+2016-06-19 11:07:20,921 INFO b.SimpleDemo [main] WN:EN:crush
+2016-06-19 11:07:20,921 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:20,921 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:22,764 INFO b.SimpleDemo [main] bn:00024144n	crush - hypernym - 0.13317 - crowd
+2016-06-19 11:07:22,764 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:22,764 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:23,995 INFO b.SimpleDemo [main] bn:00024144n	crush - hyponym - 0.30712 - snarl-up
+2016-06-19 11:07:23,995 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:23,995 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:23,995 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:23,995 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:23,995 INFO b.SimpleDemo [main] Synset ID: bn:00091986v
+2016-06-19 11:07:24,456 INFO b.SimpleDemo [main] WN:EN:press
+2016-06-19 11:07:24,457 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:24,457 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:26,248 INFO b.SimpleDemo [main] bn:00091986v	press - hypernym - 0.05373 - touch
+2016-06-19 11:07:26,248 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-19 11:07:26,248 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:27,476 INFO b.SimpleDemo [main] bn:00091986v	press - hyponym - 0.09359 - push
+2016-06-19 11:07:28,705 INFO b.SimpleDemo [main] bn:00091986v	press - hyponym - 0.1308 - bear_down
+2016-06-19 11:07:29,934 INFO b.SimpleDemo [main] bn:00091986v	press - hyponym - 0.08943 - squeeze
+2016-06-19 11:07:31,163 INFO b.SimpleDemo [main] bn:00091986v	press - hyponym - 0.13323 - crush
+2016-06-19 11:07:33,210 INFO b.SimpleDemo [main] bn:00091986v	press - hyponym - 0.07019 - knuckle
+2016-06-19 11:07:34,439 INFO b.SimpleDemo [main] bn:00091986v	press - hyponym - 0.11238 - cranch
+2016-06-19 11:07:34,439 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-19 11:07:34,439 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:34,439 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-19 11:07:34,439 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 11:07:34,439 INFO b.SimpleDemo [main] Synset ID: bn:00091992v
+2016-06-19 11:07:35,054 INFO b.SimpleDemo [main] WN:EN:press_out
+2016-06-19 11:07:35,054 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-19 11:07:35,054 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-19 22:30:59,288 INFO i.u.l.b.BabelNetConfiguration [main] Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+2016-06-19 22:30:59,937 INFO i.u.l.b.BabelNet [main] BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+2016-06-19 22:30:59,938 INFO b.SimpleDemo [main] 
+
+
+2016-06-19 22:30:59,938 INFO b.SimpleDemo [main] Extracting senses of term: february
+2016-06-19 22:30:59,938 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++

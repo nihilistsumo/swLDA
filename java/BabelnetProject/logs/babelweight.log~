@@ -1,0 +1,195 @@
+Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+
+
+
+Extracting senses of term: february
+++++++++++++++++++++++++++++++++++++++++++++++
+Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+
+
+
+Extracting senses of term: february
+++++++++++++++++++++++++++++++++++++++++++++++
+Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+
+
+
+Extracting senses of term: february
+++++++++++++++++++++++++++++++++++++++++++++++
+Loading babelnet.properties FROM /home/sumanta/workspace/BabelnetProject/config/babelnet.properties
+BabelNet full REST API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+
+
+
+Extracting senses of term: february
+++++++++++++++++++++++++++++++++++++++++++++++
+Synset ID: bn:00033882n
+WN:EN:February
+
+
+Hypernym statistics
++++++++++++++++++++
+
+bn:00033882n	February - hypernym - 0.0 - month
+bn:00033882n	February - subclass_of - 0.02745 - month
+bn:00033882n	February - hypernym - 0.10831 - Gregorian_calendar_month
+
+
+Hyponym statistics
++++++++++++++++++++
+
+bn:00033882n	February - hyponym - 0.0 - Groundhog_Day
+bn:00033882n	February - hyponym - 0.0 - February_30
+bn:00033882n	February - hyponym - 0.0 - 1948_Czechoslovak_coup_d'état
+bn:00033882n	February - hyponym - 0.0 - February_2003
+bn:00033882n	February - hyponym - 0.0 - Día_de_Andalucía
+bn:00033882n	February - hyponym - 0.0 - February_2006
+
+
+Meronym statistics
++++++++++++++++++++
+
+bn:00033882n	February - part_meronym - 0.04335 - mid-February
+bn:00033882n	February - part_meronym - 0.07234 - Valentine's_Day
+bn:00033882n	February - part_meronym - 0.06647 - Groundhog_Day
+bn:00033882n	February - part_meronym - 0.06462 - February_29
+bn:00033882n	February - part_meronym - 0.05348 - February_22
+bn:00033882n	February - part_meronym - 0.05085 - Presidents'_Day
+bn:00033882n	February - part_meronym - 0.05681 - February_12
+bn:00033882n	February - part_meronym - 0.07897 - Candlemas
+
+
+Holonym statistics
++++++++++++++++++++
+
+bn:00033882n	February - part_holonym - 0.10297 - Gregorian_calendar
+Current term having index(i) = 0 finished processing
+february index 0 weight = 0.006484071428571429
+
+
+
+Extracting senses of term: frequencies
+++++++++++++++++++++++++++++++++++++++++++++++
+Synset ID: bn:00036471n
+WN:EN:frequency
+
+
+Hypernym statistics
++++++++++++++++++++
+
+bn:00036471n	frequency - hypernym - 0.0342 - rate
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+bn:00036471n	frequency - hypernym - 0.0 - physical_quantity
+
+
+Hyponym statistics
++++++++++++++++++++
+
+bn:00036471n	frequency - hyponym - 0.09404 - radio_frequency
+bn:00036471n	frequency - hyponym - 0.13792 - infrared
+bn:00036471n	frequency - hyponym - 0.10867 - wave_number
+bn:00036471n	frequency - hyponym - 0.09788 - attendance
+bn:00036471n	frequency - hyponym - 0.11757 - audio_frequency
+bn:00036471n	frequency - hyponym - 0.10286 - count_per_minute
+bn:00036471n	frequency - hyponym - 0.09961 - sampling_frequency
+bn:00036471n	frequency - hyponym - 0.0 - airband
+bn:00036471n	frequency - hyponym - 0.0 - infrasound
+bn:00036471n	frequency - hyponym - 0.0 - bandwidth_(signal_processing)
+bn:00036471n	frequency - hyponym - 0.0 - Natural_frequency
+
+
+Meronym statistics
++++++++++++++++++++
+
+
+
+Holonym statistics
++++++++++++++++++++
+
+Current term having index(i) = 1 finished processing
+frequencies index 1 weight = -0.016881447058823527
+
+
+
+Extracting senses of term: locked
+++++++++++++++++++++++++++++++++++++++++++++++
+Synset ID: bn:00723868n
+WIKI:EN:Mutha's_Day_Out
+
+
+Hypernym statistics
++++++++++++++++++++
+
+bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - musical_group
+bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - band
+bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - rock_band
+bn:00723868n	Mutha's_Day_Out - hypernym - 0.0 - heavy_metal
+
+
+Hyponym statistics
++++++++++++++++++++
+
+
+
+Meronym statistics
++++++++++++++++++++
+
+
+
+Holonym statistics
++++++++++++++++++++
+
+Current term having index(i) = 2 finished processing
+locked index 2 weight = -0.018410466666666667
+
+
+
+Extracting senses of term: panel
+++++++++++++++++++++++++++++++++++++++++++++++
+Synset ID: bn:00026837n
+WN:EN:dialog_box
+
+
+Hypernym statistics
++++++++++++++++++++
+
+bn:00026837n	dialog_box - hypernym - 0.0 - window
+bn:00026837n	dialog_box - hypernym - 0.24903 - window
+bn:00026837n	dialog_box - hypernym - 0.0 - gadget
+
+
+Hyponym statistics
++++++++++++++++++++
+
+bn:00026837n	dialog_box - hyponym - 0.0 - alert_box
+bn:00026837n	dialog_box - hyponym - 0.0 - Confirmation_dialog_box
+
+
+Meronym statistics
++++++++++++++++++++
+
+
+
+Holonym statistics
++++++++++++++++++++
+
+bn:00026837n	dialog_box - part_holonym - 0.20375 - graphical_user_interface
+Current term having index(i) = 3 finished processing
+panel index 3 weight = -0.008549503703703701
+
+
+
+Extracting senses of term: norton
+++++++++++++++++++++++++++++++++++++++++++++++

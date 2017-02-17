@@ -1,0 +1,959 @@
+2016-06-20 23:01:31,608 INFO b.SimpleDemo [main] Logging started
+2016-06-20 23:01:31,611 WARN b.SimpleDemo [main] Weight log started
+2016-06-20 23:01:31,970 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:01:31,970 INFO b.SimpleDemo [main] Extracting senses of term: february
+2016-06-20 23:01:31,970 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:01:39,398 INFO b.SimpleDemo [main] Synset ID: bn:14121263n
+2016-06-20 23:01:40,377 INFO b.SimpleDemo [main] WIKI:EN:February_(film)
+2016-06-20 23:01:40,377 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:01:40,377 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:43,087 INFO b.SimpleDemo [main] bn:14121263n	February_(film) - hypernym - 0.0 - film
+2016-06-20 23:01:45,961 INFO b.SimpleDemo [main] bn:14121263n	February_(film) - hypernym - 0.0 - film
+2016-06-20 23:01:45,961 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:01:45,961 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:45,961 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:01:45,961 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:45,962 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:01:45,962 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:45,962 INFO b.SimpleDemo [main] Current term having index(i) = 0 finished processing
+2016-06-20 23:01:45,962 WARN b.SimpleDemo [main] february index 0 weight = 0.0
+2016-06-20 23:01:45,962 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:01:45,962 INFO b.SimpleDemo [main] Extracting senses of term: frequencies
+2016-06-20 23:01:45,962 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:01:46,684 INFO b.SimpleDemo [main] Synset ID: bn:03898594n
+2016-06-20 23:01:50,753 INFO b.SimpleDemo [main] WIKI:EN:Frequencies_(album)
+2016-06-20 23:01:50,753 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:01:50,753 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] bn:03898594n	Frequencies_(album) - hypernym - 0.0 - album
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:01:53,929 INFO b.SimpleDemo [main] Current term having index(i) = 1 finished processing
+2016-06-20 23:01:53,929 WARN b.SimpleDemo [main] frequencies index 1 weight = 0.0
+2016-06-20 23:01:53,930 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:01:53,930 INFO b.SimpleDemo [main] Extracting senses of term: locked
+2016-06-20 23:01:53,930 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:06,755 INFO b.SimpleDemo [main] Synset ID: bn:13761113a
+2016-06-20 23:02:11,467 INFO b.SimpleDemo [main] WIKT:EN:locked
+2016-06-20 23:02:11,467 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:02:11,467 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:12,692 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] Current term having index(i) = 2 finished processing
+2016-06-20 23:02:12,693 WARN b.SimpleDemo [main] locked index 2 weight = 0.0
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] Extracting senses of term: panel
+2016-06-20 23:02:12,693 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:13,306 INFO b.SimpleDemo [main] Synset ID: bn:00011644n
+2016-06-20 23:02:13,928 INFO b.SimpleDemo [main] WN:EN:control_panel
+2016-06-20 23:02:13,928 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:02:13,928 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:15,976 INFO b.SimpleDemo [main] bn:00011644n	control_panel - hypernym - 0.06798 - electrical_device
+2016-06-20 23:02:15,976 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:02:15,976 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:17,110 INFO b.SimpleDemo [main] bn:00011644n	control_panel - hyponym - 0.27128 - dashboard
+2016-06-20 23:02:17,110 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:02:17,110 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] bn:00011644n	control_panel - part_meronym - 0.36671 - idiot_light
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] Current term having index(i) = 3 finished processing
+2016-06-20 23:02:18,430 WARN b.SimpleDemo [main] panel index 3 weight = -0.15100000000000002
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] Extracting senses of term: norton
+2016-06-20 23:02:18,430 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:19,039 INFO b.SimpleDemo [main] Synset ID: bn:01026141n
+2016-06-20 23:02:19,659 INFO b.SimpleDemo [main] WIKI:EN:Norton_(surname)
+2016-06-20 23:02:19,659 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:02:19,659 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:20,227 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:02:20,227 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] Current term having index(i) = 4 finished processing
+2016-06-20 23:02:20,228 WARN b.SimpleDemo [main] norton index 4 weight = -0.15100000000000002
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:20,228 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:20,703 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:20,703 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:20,703 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:21,142 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:21,143 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:21,143 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:21,706 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:21,706 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:21,706 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:22,273 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:22,273 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:22,273 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:22,936 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:22,936 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:22,936 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:23,411 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:23,411 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:23,411 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:24,161 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:24,161 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:24,161 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:24,774 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:24,774 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:24,774 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:25,389 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:25,389 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:25,390 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:26,209 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:26,210 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:26,210 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:26,821 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:26,821 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:26,821 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:28,027 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:28,027 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:28,027 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:31,123 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:31,123 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:31,123 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:33,375 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:33,376 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:33,376 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:33,989 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:33,990 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:33,990 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:34,605 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:34,605 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:34,605 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:35,218 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:35,218 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:35,218 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:35,833 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:35,833 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:35,833 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:36,323 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:36,323 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:36,323 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:39,520 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:39,520 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:39,520 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:40,519 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:40,519 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:40,519 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:41,001 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:41,001 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:41,001 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:41,570 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:41,570 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:41,570 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:42,182 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:42,182 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:42,182 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:42,796 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:42,796 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:42,796 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:43,410 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:43,410 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:43,410 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:44,025 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:44,025 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:44,025 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:44,638 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:44,638 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:44,638 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:02:46,074 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:02:46,074 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:02:46,074 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:07,607 INFO b.SimpleDemo [main] Logging started
+2016-06-20 23:03:07,609 WARN b.SimpleDemo [main] Weight log started
+2016-06-20 23:03:07,981 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:07,981 INFO b.SimpleDemo [main] Extracting senses of term: february
+2016-06-20 23:03:07,981 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:10,687 INFO b.SimpleDemo [main] Synset ID: bn:14121263n
+2016-06-20 23:03:11,324 INFO b.SimpleDemo [main] WIKI:EN:February_(film)
+2016-06-20 23:03:11,324 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:11,325 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:13,359 INFO b.SimpleDemo [main] bn:14121263n	February_(film) - hypernym - 0.0 - film
+2016-06-20 23:03:14,791 INFO b.SimpleDemo [main] bn:14121263n	February_(film) - hypernym - 0.0 - film
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:14,792 INFO b.SimpleDemo [main] Current term having index(i) = 0 finished processing
+2016-06-20 23:03:14,792 WARN b.SimpleDemo [main] february index 0 weight = 0.0
+2016-06-20 23:03:14,793 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:14,793 INFO b.SimpleDemo [main] Extracting senses of term: frequencies
+2016-06-20 23:03:14,793 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:15,569 INFO b.SimpleDemo [main] Synset ID: bn:03898594n
+2016-06-20 23:03:24,508 INFO b.SimpleDemo [main] WIKI:EN:Frequencies_(album)
+2016-06-20 23:03:24,509 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:24,509 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:28,656 INFO b.SimpleDemo [main] bn:03898594n	Frequencies_(album) - hypernym - 0.0 - album
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] Current term having index(i) = 1 finished processing
+2016-06-20 23:03:28,657 WARN b.SimpleDemo [main] frequencies index 1 weight = 0.0
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] Extracting senses of term: locked
+2016-06-20 23:03:28,657 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:29,703 INFO b.SimpleDemo [main] Synset ID: bn:13761113a
+2016-06-20 23:03:31,339 INFO b.SimpleDemo [main] WIKT:EN:locked
+2016-06-20 23:03:31,339 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:31,339 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:37,276 INFO b.SimpleDemo [main] Current term having index(i) = 2 finished processing
+2016-06-20 23:03:37,277 WARN b.SimpleDemo [main] locked index 2 weight = 0.0
+2016-06-20 23:03:37,277 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:37,277 INFO b.SimpleDemo [main] Extracting senses of term: panel
+2016-06-20 23:03:37,277 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:37,889 INFO b.SimpleDemo [main] Synset ID: bn:00011644n
+2016-06-20 23:03:38,514 INFO b.SimpleDemo [main] WN:EN:control_panel
+2016-06-20 23:03:38,514 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:38,514 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:40,351 INFO b.SimpleDemo [main] bn:00011644n	control_panel - hypernym - 0.06798 - electrical_device
+2016-06-20 23:03:40,352 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:40,352 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:41,572 INFO b.SimpleDemo [main] bn:00011644n	control_panel - hyponym - 0.27128 - dashboard
+2016-06-20 23:03:41,572 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:41,572 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:42,809 INFO b.SimpleDemo [main] bn:00011644n	control_panel - part_meronym - 0.36671 - idiot_light
+2016-06-20 23:03:42,810 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:42,810 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:42,810 INFO b.SimpleDemo [main] Current term having index(i) = 3 finished processing
+2016-06-20 23:03:42,810 WARN b.SimpleDemo [main] panel index 3 weight = -0.15100000000000002
+2016-06-20 23:03:42,810 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:42,810 INFO b.SimpleDemo [main] Extracting senses of term: norton
+2016-06-20 23:03:42,810 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:43,417 INFO b.SimpleDemo [main] Synset ID: bn:01026141n
+2016-06-20 23:03:44,035 INFO b.SimpleDemo [main] WIKI:EN:Norton_(surname)
+2016-06-20 23:03:44,035 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:44,035 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:44,650 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:44,650 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:44,651 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:44,651 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:44,651 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:44,651 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:44,651 INFO b.SimpleDemo [main] Current term having index(i) = 4 finished processing
+2016-06-20 23:03:44,651 WARN b.SimpleDemo [main] norton index 4 weight = -0.15100000000000002
+2016-06-20 23:03:44,652 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:44,652 INFO b.SimpleDemo [main] Extracting senses of term: boosted
+2016-06-20 23:03:44,652 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:45,261 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:45,261 INFO b.SimpleDemo [main] Extracting senses of term: investec
+2016-06-20 23:03:45,261 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:45,875 INFO b.SimpleDemo [main] Synset ID: bn:17001255n
+2016-06-20 23:03:46,495 INFO b.SimpleDemo [main] WIKI:EN:Investec
+2016-06-20 23:03:46,495 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:46,495 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:48,284 INFO b.SimpleDemo [main] bn:17001255n	Investec - hypernym - 0.0 - Public_company
+2016-06-20 23:03:49,567 INFO b.SimpleDemo [main] bn:17001255n	Investec - hypernym - 0.0 - banking
+2016-06-20 23:03:49,567 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:49,567 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:49,567 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:49,567 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:49,567 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:49,568 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:49,568 INFO b.SimpleDemo [main] Current term having index(i) = 6 finished processing
+2016-06-20 23:03:49,568 WARN b.SimpleDemo [main] investec index 6 weight = -0.1538325
+2016-06-20 23:03:49,568 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:49,568 INFO b.SimpleDemo [main] Extracting senses of term: disappointed
+2016-06-20 23:03:49,568 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:03:50,175 INFO b.SimpleDemo [main] Synset ID: bn:13826898n
+2016-06-20 23:03:50,795 INFO b.SimpleDemo [main] WIKI:EN:9_(Public_Image_Ltd_album)
+2016-06-20 23:03:50,795 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:03:50,795 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:52,436 INFO b.SimpleDemo [main] bn:13826898n	9_(Public_Image_Ltd_album) - hypernym - 0.0 - album
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] bn:13826898n	9_(Public_Image_Ltd_album) - hypernym - 0.0 - album
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:03:53,707 INFO b.SimpleDemo [main] Current term having index(i) = 7 finished processing
+2016-06-20 23:03:53,707 WARN b.SimpleDemo [main] disappointed index 7 weight = -0.15524875000000002
+2016-06-20 23:03:53,708 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:03:53,708 INFO b.SimpleDemo [main] Extracting senses of term: showcase
+2016-06-20 23:03:53,708 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:05,331 INFO b.SimpleDemo [main] Synset ID: bn:00071322n
+2016-06-20 23:04:06,356 INFO b.SimpleDemo [main] WN:EN:show_window
+2016-06-20 23:04:06,356 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:06,356 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] bn:00071322n	show_window - hypernym - 0.96471 - background
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] Current term having index(i) = 8 finished processing
+2016-06-20 23:04:09,347 WARN b.SimpleDemo [main] showcase index 8 weight = -0.10212583333333336
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] Extracting senses of term: gamble
+2016-06-20 23:04:09,347 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:10,246 INFO b.SimpleDemo [main] Synset ID: bn:00088669v
+2016-06-20 23:04:11,216 INFO b.SimpleDemo [main] WN:EN:gamble
+2016-06-20 23:04:11,216 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:11,216 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:13,937 INFO b.SimpleDemo [main] bn:00088669v	gamble - hypernym - 0.02369 - play
+2016-06-20 23:04:13,937 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:13,937 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:15,779 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.10283 - shoot_craps
+2016-06-20 23:04:17,621 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.18331 - bet
+2016-06-20 23:04:19,673 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.06274 - dice
+2016-06-20 23:04:23,152 INFO b.SimpleDemo [main] bn:00088669v	gamble - hyponym - 0.18284 - play
+2016-06-20 23:04:23,152 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:23,152 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:23,152 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:23,152 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:23,152 INFO b.SimpleDemo [main] Current term having index(i) = 9 finished processing
+2016-06-20 23:04:23,152 WARN b.SimpleDemo [main] gamble index 9 weight = -0.04465683333333334
+2016-06-20 23:04:23,153 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:23,153 INFO b.SimpleDemo [main] Extracting senses of term: lima
+2016-06-20 23:04:23,153 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:23,765 INFO b.SimpleDemo [main] Synset ID: bn:02101058n
+2016-06-20 23:04:24,382 INFO b.SimpleDemo [main] WIKI:EN:Indigitamenta
+2016-06-20 23:04:24,382 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:24,382 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:26,232 INFO b.SimpleDemo [main] bn:02101058n	Indigitamenta - hypernym - 0.0 - deity
+2016-06-20 23:04:26,232 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:26,232 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:26,232 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:26,232 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:26,233 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:26,233 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:26,233 INFO b.SimpleDemo [main] Current term having index(i) = 10 finished processing
+2016-06-20 23:04:26,233 WARN b.SimpleDemo [main] lima index 10 weight = -0.04945856060606061
+2016-06-20 23:04:26,233 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:26,233 INFO b.SimpleDemo [main] Extracting senses of term: press
+2016-06-20 23:04:26,233 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:26,835 INFO b.SimpleDemo [main] Synset ID: bn:00091988v
+2016-06-20 23:04:27,448 INFO b.SimpleDemo [main] WN:EN:press
+2016-06-20 23:04:27,448 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:27,448 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:29,296 INFO b.SimpleDemo [main] bn:00091988v	press - hypernym - 0.18864 - flatten
+2016-06-20 23:04:29,296 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:29,296 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:30,522 INFO b.SimpleDemo [main] bn:00091988v	press - hyponym - 0.27947 - calender
+2016-06-20 23:04:31,755 INFO b.SimpleDemo [main] bn:00091988v	press - hyponym - 0.18083 - iron
+2016-06-20 23:04:31,755 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:31,755 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:31,756 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:31,756 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:31,756 INFO b.SimpleDemo [main] Current term having index(i) = 11 finished processing
+2016-06-20 23:04:31,756 WARN b.SimpleDemo [main] press index 11 weight = -0.049999791666666675
+2016-06-20 23:04:31,756 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:31,756 INFO b.SimpleDemo [main] Extracting senses of term: basic
+2016-06-20 23:04:31,756 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:32,363 INFO b.SimpleDemo [main] Synset ID: bn:03367401n
+2016-06-20 23:04:32,982 INFO b.SimpleDemo [main] WIKI:EN:Languages_in_Star_Wars
+2016-06-20 23:04:32,982 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:32,982 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:34,829 INFO b.SimpleDemo [main] bn:03367401n	Languages_in_Star_Wars - hypernym - 0.0 - language
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] Current term having index(i) = 12 finished processing
+2016-06-20 23:04:34,830 WARN b.SimpleDemo [main] basic index 12 weight = -0.05399024038461539
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] Extracting senses of term: tied
+2016-06-20 23:04:34,830 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:35,436 INFO b.SimpleDemo [main] Synset ID: bn:00102817a
+2016-06-20 23:04:36,054 INFO b.SimpleDemo [main] WN:EN:fastened
+2016-06-20 23:04:36,054 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:36,054 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:36,588 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:36,588 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:36,588 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:36,588 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:36,588 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:36,589 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:36,589 INFO b.SimpleDemo [main] Current term having index(i) = 13 finished processing
+2016-06-20 23:04:36,589 WARN b.SimpleDemo [main] tied index 13 weight = -0.05399024038461539
+2016-06-20 23:04:36,589 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:36,589 INFO b.SimpleDemo [main] Extracting senses of term: segregated
+2016-06-20 23:04:36,589 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:37,281 INFO b.SimpleDemo [main] Synset ID: bn:00110288a
+2016-06-20 23:04:37,897 INFO b.SimpleDemo [main] WN:EN:segregated
+2016-06-20 23:04:37,897 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:37,897 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:38,509 INFO b.SimpleDemo [main] Current term having index(i) = 14 finished processing
+2016-06-20 23:04:38,509 WARN b.SimpleDemo [main] segregated index 14 weight = -0.05399024038461539
+2016-06-20 23:04:38,510 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:38,510 INFO b.SimpleDemo [main] Extracting senses of term: job
+2016-06-20 23:04:38,510 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:39,119 INFO b.SimpleDemo [main] Synset ID: bn:00015477n
+2016-06-20 23:04:39,683 INFO b.SimpleDemo [main] WN:EN:caper
+2016-06-20 23:04:39,683 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:39,683 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] bn:00015477n	caper - hypernym - 0.4799 - robbery
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] Current term having index(i) = 15 finished processing
+2016-06-20 23:04:42,403 WARN b.SimpleDemo [main] job index 15 weight = -0.04027133928571429
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] Extracting senses of term: saldarriaga
+2016-06-20 23:04:42,403 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:43,015 INFO b.SimpleDemo [main] Synset ID: bn:01267513n
+2016-06-20 23:04:43,637 INFO b.SimpleDemo [main] WIKI:EN:Saldarriaga
+2016-06-20 23:04:43,637 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:43,637 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] bn:01267513n	Saldarriaga - hypernym - 0.0 - village
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] Current term having index(i) = 16 finished processing
+2016-06-20 23:04:47,527 WARN b.SimpleDemo [main] saldarriaga index 16 weight = -0.044378291666666674
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] Extracting senses of term: phrase
+2016-06-20 23:04:47,527 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:04:48,340 INFO b.SimpleDemo [main] Synset ID: bn:00082799v
+2016-06-20 23:04:48,955 INFO b.SimpleDemo [main] WN:EN:articulate
+2016-06-20 23:04:48,955 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:04:48,955 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:51,004 INFO b.SimpleDemo [main] bn:00082799v	articulate - hypernym - 0.04634 - evince
+2016-06-20 23:04:51,004 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:04:51,004 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:53,462 INFO b.SimpleDemo [main] bn:00082799v	articulate - hyponym - 0.08094 - couch
+2016-06-20 23:04:54,690 INFO b.SimpleDemo [main] bn:00082799v	articulate - hyponym - 0.09263 - lexicalize
+2016-06-20 23:04:56,127 INFO b.SimpleDemo [main] bn:00082799v	articulate - hyponym - 0.06723 - dogmatize
+2016-06-20 23:04:58,154 INFO b.SimpleDemo [main] bn:00082799v	articulate - hyponym - 0.06728 - formularise
+2016-06-20 23:04:59,809 INFO b.SimpleDemo [main] bn:00082799v	articulate - hyponym - 0.06793 - ask
+2016-06-20 23:04:59,809 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:04:59,809 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:59,809 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:04:59,809 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:04:59,809 INFO b.SimpleDemo [main] Current term having index(i) = 17 finished processing
+2016-06-20 23:04:59,809 WARN b.SimpleDemo [main] phrase index 17 weight = -0.021802740384615382
+2016-06-20 23:04:59,810 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:04:59,810 INFO b.SimpleDemo [main] Extracting senses of term: nia
+2016-06-20 23:04:59,810 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:05:00,626 INFO b.SimpleDemo [main] Synset ID: bn:14877097n
+2016-06-20 23:05:01,449 INFO b.SimpleDemo [main] WIKI:EN:Nia_(given_name)
+2016-06-20 23:05:01,449 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:05:01,449 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:03,702 INFO b.SimpleDemo [main] bn:14877097n	Nia_(given_name) - hypernym - 0.0 - given_name
+2016-06-20 23:05:05,336 INFO b.SimpleDemo [main] bn:14877097n	Nia_(given_name) - hypernym - 0.0 - female_given_name
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] bn:14877097n	Nia_(given_name) - hypernym - 0.0 - name
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] Current term having index(i) = 18 finished processing
+2016-06-20 23:05:06,701 WARN b.SimpleDemo [main] nia index 18 weight = -0.030542510121457485
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] Extracting senses of term: talking
+2016-06-20 23:05:06,701 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:05:07,178 INFO b.SimpleDemo [main] Synset ID: bn:00616698n
+2016-06-20 23:05:07,671 INFO b.SimpleDemo [main] WIKI:EN:Talking_(The_Rifles_song)
+2016-06-20 23:05:07,671 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:05:07,671 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] bn:00616698n	Talking_(The_Rifles_song) - hypernym - 0.0 - single_(music)
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:09,451 INFO b.SimpleDemo [main] Current term having index(i) = 19 finished processing
+2016-06-20 23:05:09,452 WARN b.SimpleDemo [main] talking index 19 weight = -0.03287311538461538
+2016-06-20 23:05:09,452 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:05:09,452 INFO b.SimpleDemo [main] Extracting senses of term: jeeves
+2016-06-20 23:05:09,452 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:05:09,988 INFO b.SimpleDemo [main] Synset ID: bn:00535614n
+2016-06-20 23:05:10,530 INFO b.SimpleDemo [main] WIKI:EN:By_Jeeves
+2016-06-20 23:05:10,530 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:05:10,530 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:13,331 INFO b.SimpleDemo [main] bn:00535614n	By_Jeeves - hypernym - 0.0 - script
+2016-06-20 23:05:14,558 INFO b.SimpleDemo [main] bn:00535614n	By_Jeeves - hypernym - 0.0 - musical
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] bn:00535614n	By_Jeeves - hypernym - 0.0 - musical
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] 
+
+Meronym statistics
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] 
+
+Holonym statistics
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] Current term having index(i) = 20 finished processing
+2016-06-20 23:05:29,510 WARN b.SimpleDemo [main] jeeves index 20 weight = -0.03864896321070234
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] Extracting senses of term: servers
+2016-06-20 23:05:29,510 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:05:30,322 INFO b.SimpleDemo [main] 
+
+
+2016-06-20 23:05:30,322 INFO b.SimpleDemo [main] Extracting senses of term: libretto
+2016-06-20 23:05:30,322 INFO b.SimpleDemo [main] ++++++++++++++++++++++++++++++++++++++++++++++
+2016-06-20 23:05:31,139 INFO b.SimpleDemo [main] Synset ID: bn:00050979n
+2016-06-20 23:05:32,171 INFO b.SimpleDemo [main] WN:EN:libretto
+2016-06-20 23:05:32,171 INFO b.SimpleDemo [main] 
+
+Hypernym statistics
+2016-06-20 23:05:32,171 INFO b.SimpleDemo [main] +++++++++++++++++++
+
+2016-06-20 23:05:35,596 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - opera
+2016-06-20 23:05:39,137 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.29498 - script
+2016-06-20 23:05:41,916 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - text
+2016-06-20 23:05:45,279 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - text
+2016-06-20 23:05:47,324 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - literature
+2016-06-20 23:05:49,170 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - music
+2016-06-20 23:05:50,603 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - operetta
+2016-06-20 23:05:52,052 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - dance
+2016-06-20 23:05:53,463 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - text
+2016-06-20 23:05:54,698 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - text
+2016-06-20 23:05:56,131 INFO b.SimpleDemo [main] bn:00050979n	libretto - hypernym - 0.0 - writing
+2016-06-20 23:05:56,131 INFO b.SimpleDemo [main] 
+
+Hyponym statistics
+2016-06-20 23:05:56,131 INFO b.SimpleDemo [main] +++++++++++++++++++
+

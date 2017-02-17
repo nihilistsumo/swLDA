@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/babelnet-api-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/lucene-queryparser-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/icu4j-56.1.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/jltutils-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/lucene-core-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/jwi-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/BabelNet-API-3.6.1/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/apache-log4j-2.6.1-bin/log4j-core-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/apache-log4j-2.6.1-bin/log4j-api-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/sumanta/Documents/eric_codes/apache-log4j-2.6.1-bin/log4j-1.2-api-2.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
